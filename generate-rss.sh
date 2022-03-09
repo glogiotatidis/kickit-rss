@@ -3,7 +3,7 @@ set -xe
 
 USERNAMES="panospet"
 
-mkdir -vp rss
+mkdir -vp docs
 
 generate_yt_cmd() {
     JSON_DATA=$(mktemp --suffix .json)
