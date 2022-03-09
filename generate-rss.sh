@@ -15,5 +15,5 @@ do
     generate_yt_cmd
     eval "${YT_CMD}"
 
-    jinja render -d "${JSON_DATA}" -t ./template.yaml -lb -tb  > "rss/${user}.rss"
+    jinja render -d "${JSON_DATA}" -t ./template.yaml -lb -tb  > "docs/${user}.rss"
 done
