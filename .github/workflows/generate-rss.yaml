@@ -1,0 +1,27 @@
+name: Generate RSS
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12-02 * * *"
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - name: Install requirements
+        shell: bash
+        run:
+          pip install -r requirements.txt
+      - name: Generate
+        shell: bash
+        run: ./generate-rss.sh
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "RSS update"
+          add: "rss/*"

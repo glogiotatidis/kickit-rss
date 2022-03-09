@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <generator>mpecorp podcast generator</generator>
+    <title>Related</title>
+    <description>Εκπομπή Related - kickit.gr</description>
+    <copyright>kickit.gr</copyright>
+    <language>el</language>
+    <pubDate>Sat, 26 Feb 2022 07:30:26 +0000</pubDate>
+    <lastBuildDate>{{ last_build }}</lastBuildDate>
+    <image>
+      <link>https://www.kickit.gr</link>
+      <title>Related - kickit.gr</title>
+     <url>https://thumbnailer.mixcloud.com/unsafe/1000x1000/profile/d/b/0/5/14ed-025a-48f3-b820-c4feb07dcae9</url>
+    </image>
+    <link>https://www.kickit.gr</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Εκπομπή Related - kickit.gr</itunes:summary>
+    <itunes:author>panospet</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href=""/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/oDFHCxjS</itunes:new-feed-url>
+    <itunes:keywords>kickit, related, panospet</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>panospet</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Leisure"/>
+    <itunes:category text="Music"/>
+
+    {% for entry in entries %}
+    <item>
+      <guid isPermaLink="false">{{ entry.id }}</guid>
+      <title>{{ entry.title }}</title>
+      <description><![CDATA[{{ entry.description }}]]></description>
+      <pubDate>{{ entry.timestamp }}</pubDate>
+      <author>{{ entry.uploader }}</author>
+      <link>{{ entry.webpage_url }}</link>
+      <enclosure type="audio/mpeg" url="{{ entry.url }}"/>
+      <itunes:title>{{ entry.title }}</itunes:title>
+      <itunes:author>{{ entry.uploader }}</itunes:author>
+      <itunes:image href="{{ entry.thumbnail }}"/>
+      <itunes:duration>{{ entry.duration }}</itunes:duration>
+      <itunes:summary><![CDATA[{{ entry.description }}]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>{{ loop.revindex }}</itunes:episode>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
