@@ -7,7 +7,7 @@ mkdir -vp docs
 
 generate_yt_cmd() {
     JSON_DATA=$(mktemp --suffix .json)
-    YT_CMD="youtube-dl -f http https://www.mixcloud.com/${user}/ -J --skip-download > ${JSON_DATA}"
+    YT_CMD="youtube-dl -i -f http https://www.mixcloud.com/${user}/ -J --skip-download > ${JSON_DATA}"
 }
 
 for user in ${USERNAMES}
