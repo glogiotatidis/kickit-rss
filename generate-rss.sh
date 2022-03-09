@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -xe
 
-USERNAMES="panospet"
+USERNAMES="panospet kickitathens"
 
 mkdir -vp docs
 
