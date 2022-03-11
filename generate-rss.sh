@@ -3,8 +3,6 @@ set -xe
 
 USERNAMES="panospet kickitathens"
 
-mkdir -vp docs
-
 generate_yt_cmd() {
     JSON_DATA=$(mktemp --suffix .json)
     YT_CMD="youtube-dl --geo-bypass -f http https://www.mixcloud.com/${user}/ -J --skip-download | jq '.entries[].timestamp |= strftime(\"%a, %d %b %Y %H:%M:%S +0000\")' > ${JSON_DATA}"
