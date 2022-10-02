@@ -2,27 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <generator>mpecorp podcast generator</generator>
-    <title>Related</title>
-    <description>Εκπομπή Related - kickit.gr</description>
+    <title>KickIt.gr Radio RSS</title>
+    <description>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</description>
     <copyright>kickit.gr</copyright>
     <language>el</language>
-    <pubDate>Sat, 26 Feb 2022 07:30:26 +0000</pubDate>
+    <pubDate>{{ entries[0].timestamp }}</pubDate>
     <lastBuildDate>{{ last_build }}</lastBuildDate>
     <image>
       <link>https://www.kickit.gr</link>
-      <title>Related - kickit.gr</title>
-     <url>https://thumbnailer.mixcloud.com/unsafe/1000x1000/profile/d/b/0/5/14ed-025a-48f3-b820-c4feb07dcae9</url>
+      <title>KickIt.gr</title>
+     <url>https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
     </image>
     <link>https://www.kickit.gr</link>
     <itunes:type>episodic</itunes:type>
-    <itunes:summary>Εκπομπή Related - kickit.gr</itunes:summary>
-    <itunes:author>panospet</itunes:author>
+    <itunes:summary>KickIt.gr Radio RSS</itunes:summary>
+    <itunes:author>KickIt.gr</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href=""/>
-    <itunes:new-feed-url>https://feeds.simplecast.com/oDFHCxjS</itunes:new-feed-url>
-    <itunes:keywords>kickit, related, panospet</itunes:keywords>
+    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
+    <itunes:keywords>kickit, kickit.gr</itunes:keywords>
     <itunes:owner>
-      <itunes:name>panospet</itunes:name>
+      <itunes:name>KickIt.gr</itunes:name>
     </itunes:owner>
     <itunes:category text="Leisure"/>
     <itunes:category text="Music"/>
