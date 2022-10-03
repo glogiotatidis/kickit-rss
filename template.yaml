@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <generator>mpecorp podcast generator</generator>
-    <title>KickIt.gr Radio RSS</title>
+    <title>KickIt.gr Podcasts</title>
     <description>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</description>
     <copyright>kickit.gr</copyright>
     <language>el</language>
@@ -10,11 +10,10 @@
     <lastBuildDate>{{ last_build }}</lastBuildDate>
     <image>
       <link>https://www.kickit.gr</link>
-      <title>KickIt.gr</title>
+      <title>KickIt.gr Podcasts</title>
      <url>https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
     </image>
     <link>https://www.kickit.gr</link>
-    <itunes:type>episodic</itunes:type>
     <itunes:summary>KickIt.gr Radio RSS</itunes:summary>
     <itunes:author>KickIt.gr</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -22,8 +21,8 @@
     <itunes:keywords>kickit, kickit.gr</itunes:keywords>
     <itunes:owner>
       <itunes:name>KickIt.gr</itunes:name>
+      <itunes:email>info@kickit.gr</itunes:email>
     </itunes:owner>
-    <itunes:category text="Leisure"/>
     <itunes:category text="Music"/>
 
     {% for entry in entries %}
@@ -32,17 +31,14 @@
       <title><![CDATA[{{ entry.title }}]]></title>
       <description><![CDATA[{{ entry.description }}]]></description>
       <pubDate>{{ entry.timestamp }}</pubDate>
-      <author>{{ entry.uploader }}</author>
+      <author>info@kickit.gr</author>
       <link>{{ entry.webpage_url }}</link>
       <enclosure type="audio/mpeg" url="{{ entry.url }}"/>
-      <itunes:title><![CDATA[{{ entry.title }}]]></itunes:title>
       <itunes:author>{{ entry.uploader }}</itunes:author>
       <itunes:image href="{{ entry.thumbnail }}"/>
       <itunes:duration>{{ entry.duration }}</itunes:duration>
       <itunes:summary><![CDATA[{{ entry.description }}]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>{{ loop.revindex }}</itunes:episode>
     </item>
     {% endfor %}
   </channel>
