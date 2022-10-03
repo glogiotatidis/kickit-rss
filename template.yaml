@@ -35,7 +35,7 @@
       <author>{{ entry.uploader }}</author>
       <link>{{ entry.webpage_url }}</link>
       <enclosure type="audio/mpeg" url="{{ entry.url }}"/>
-      <itunes:title>{{ entry.title }}</itunes:title>
+      <itunes:title><![CDATA[{{ entry.title }}]]</itunes:title>
       <itunes:author>{{ entry.uploader }}</itunes:author>
       <itunes:image href="{{ entry.thumbnail }}"/>
       <itunes:duration>{{ entry.duration }}</itunes:duration>
