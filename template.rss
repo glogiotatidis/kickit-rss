@@ -8,7 +8,7 @@
     <image>
       <link>https://www.kickit.gr</link>
       <title>KickIt.gr Podcasts</title>
-     <url>https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
+     <url>https://thumbnailer.mixcloud.com/unsafe/1600x1600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
     </image>
     <generator>mpecorp podcast generator</generator>
     <atom:link href="https://glogiotatidis.github.io/kickit-rss/kickitathens.rss" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
     <lastBuildDate>{{ last_build }}</lastBuildDate>
     <author>KickIt.gr</author>
     <itunes:author>KickIt.gr</itunes:author>
-    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
+    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1600x1600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
     <itunes:keywords>kickit, kickit.gr</itunes:keywords>
     <itunes:owner>
       <itunes:name>KickIt.gr</itunes:name>
@@ -25,7 +25,7 @@
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
+    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1600x1600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
     <itunes:category text="Music"/>
 
     {% for entry in entries %}
