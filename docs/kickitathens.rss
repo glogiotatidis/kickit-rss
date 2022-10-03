@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0">
   <channel>
-    <generator>mpecorp podcast generator</generator>
     <title>KickIt.gr Podcasts</title>
     <description>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</description>
-    <copyright>kickit.gr</copyright>
-    <language>el</language>
-    <pubDate>Sun, 03 Apr 2022 11:17:04 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2022 22:00:39 +0300</lastBuildDate>
+    <itunes:summary>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</itunes:summary>
+    <link>https://www.kickit.gr</link>
     <image>
       <link>https://www.kickit.gr</link>
       <title>KickIt.gr Podcasts</title>
      <url>https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
     </image>
-    <link>https://www.kickit.gr</link>
-    <itunes:summary>KickIt.gr Radio RSS</itunes:summary>
+    <generator>mpecorp podcast generator</generator>
+    <atom:link href="https://glogiotatidis.github.io/kickit-rss/kickitathens.rss" rel="self" type="application/rss+xml"/>
+    <language>el</language>
+    <pubDate>Sun, 03 Apr 2022 11:17:04 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 23:11:34 +0300</lastBuildDate>
+    <author>KickIt.gr</author>
     <itunes:author>KickIt.gr</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
@@ -23,6 +23,9 @@
       <itunes:name>KickIt.gr</itunes:name>
       <itunes:email>info@kickit.gr</itunes:email>
     </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
     <itunes:category text="Music"/>
 
     
@@ -31,14 +34,15 @@
       <title><![CDATA[Back2Black wt. Austinmod S03E17]]></title>
       <description><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sun, 03 Apr 2022 11:17:04 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e17/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/b/b/7/4/121c-eea3-40e1-a533-4e39f57cfdd4.m4a?sig=3Pq8qLkGXvwPTxDDijO-UQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/b/b/7/4/121c-eea3-40e1-a533-4e39f57cfdd4.m4a?sig=3Pq8qLkGXvwPTxDDijO-UQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/4/9/b320-0c67-408a-8afb-eac0b0c9f06a"/>
-      <itunes:duration>6993</itunes:duration>
+      <itunes:duration>01:56:33</itunes:duration>
       <itunes:summary><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -48,16 +52,17 @@
 
 Saturday Morning Fever presented by Fanis Afanis any second Saturday of the month in radiokickit.gr]]></description>
       <pubDate>Tue, 15 Mar 2022 12:44:04 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/saturday-morning-fever-with-fanis-afanis-live-interview-with-vos-f-yonassis-19th-of-feb-2022/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/3/7/8/1/138f-147b-4243-8ff5-2420bf819063.m4a?sig=Kw2mTXKl84_GJPOQiml3MA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/3/7/8/1/138f-147b-4243-8ff5-2420bf819063.m4a?sig=Kw2mTXKl84_GJPOQiml3MA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/9/8/e/7efb-bab3-4a30-bae6-7a59e8e9ec09"/>
-      <itunes:duration>7399</itunes:duration>
+      <itunes:duration>02:03:19</itunes:duration>
       <itunes:summary><![CDATA[A 2 hour live interview with the MC Vos-F & the Music Producer Yonassis discussing the debut LP "The Emerald Piper".
 
 Saturday Morning Fever presented by Fanis Afanis any second Saturday of the month in radiokickit.gr]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -65,14 +70,15 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
       <title><![CDATA[Back2Black wt. Austinmod S03E15]]></title>
       <description><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sun, 06 Mar 2022 12:19:28 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e15/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/a/2/f/a/2b5a-b574-4512-8cb4-90cec0de2a48.m4a?sig=aWHmqc7sBO93sF-WlPsCIw"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/a/2/f/a/2b5a-b574-4512-8cb4-90cec0de2a48.m4a?sig=aWHmqc7sBO93sF-WlPsCIw"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/5/5/dce9-9e9e-4628-a83f-631e3ed7ad2d"/>
-      <itunes:duration>7170</itunes:duration>
+      <itunes:duration>01:59:30</itunes:duration>
       <itunes:summary><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -80,14 +86,15 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
       <title><![CDATA[KickItMix by Santoner]]></title>
       <description><![CDATA[A beautiful and colorful mix by DJ Santoner for the listeners of radio.kickit.gr.]]></description>
       <pubDate>Wed, 09 Feb 2022 17:16:21 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/kickitmix-by-santoner/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/c/c/5/a/0523-dfe6-4a13-a92a-afc2db613bc9.m4a?sig=L-AyVEb_OoDqqvXnpy_8GQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/c/c/5/a/0523-dfe6-4a13-a92a-afc2db613bc9.m4a?sig=L-AyVEb_OoDqqvXnpy_8GQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/c/8/0/d2c3-baa8-4993-9a57-38f312ceb000"/>
-      <itunes:duration>2790</itunes:duration>
+      <itunes:duration>00:46:30</itunes:duration>
       <itunes:summary><![CDATA[A beautiful and colorful mix by DJ Santoner for the listeners of radio.kickit.gr.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -97,16 +104,17 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
 Black Tunes, classic & fresh urban music, from Athens to the world.
 21/11/21]]></description>
       <pubDate>Mon, 17 Jan 2022 17:07:46 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/d/6/d/a/f198-6a39-49cb-98eb-462cd447da0a.m4a?sig=0R5oXv9uFGLcNWZlQpLQmg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/d/6/d/a/f198-6a39-49cb-98eb-462cd447da0a.m4a?sig=0R5oXv9uFGLcNWZlQpLQmg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/2/1/d/2ccc-3598-4f47-9566-99f383ecb5a5"/>
-      <itunes:duration>7081</itunes:duration>
+      <itunes:duration>01:58:01</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.
 21/11/21]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -116,16 +124,17 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
 Black Tunes, classic & fresh urban music, from Athens to the world.
 7/11/21]]></description>
       <pubDate>Mon, 17 Jan 2022 16:58:59 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/2/c/5/8/546e-9374-4502-afb5-254b54f6d777.m4a?sig=d54hp_tRl4dTRrdy8lZbzg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/2/c/5/8/546e-9374-4502-afb5-254b54f6d777.m4a?sig=d54hp_tRl4dTRrdy8lZbzg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/c/b/2/08fe-714a-4ad5-9b60-c048919b1602"/>
-      <itunes:duration>8562</itunes:duration>
+      <itunes:duration>02:22:42</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.
 7/11/21]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -135,16 +144,17 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
 Black Tunes, classic & fresh urban music, from Athens to the world.
 24/10/21]]></description>
       <pubDate>Mon, 17 Jan 2022 16:49:21 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/8/9/c/3/13f4-9b31-448c-ae30-0b1d38e4d0c2.m4a?sig=251_7Qk-BcJIbBfs4EjwNg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/8/9/c/3/13f4-9b31-448c-ae30-0b1d38e4d0c2.m4a?sig=251_7Qk-BcJIbBfs4EjwNg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/1/4/8/5b40-76d3-4a79-8a32-1945139a24e9"/>
-      <itunes:duration>7407</itunes:duration>
+      <itunes:duration>02:03:27</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.
 24/10/21]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -152,14 +162,15 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
       <title><![CDATA[Back2Black wt. Austinmod - S03E08]]></title>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Mon, 17 Jan 2022 15:51:50 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/backblack-wt-austinmod-s03e08/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/4/2/6/8/2ae9-818a-4be0-ba2a-b0f43b35ebf0.m4a?sig=u2Q-9e-LgR0U7kcWhIHMyA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/4/2/6/8/2ae9-818a-4be0-ba2a-b0f43b35ebf0.m4a?sig=u2Q-9e-LgR0U7kcWhIHMyA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/3/7/3/9ee7-e346-4bed-8bc1-ec3694b424f5"/>
-      <itunes:duration>7014</itunes:duration>
+      <itunes:duration>01:56:54</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -169,16 +180,17 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
 ΠΤΙ ΜΠΕΡΝΤ
 ft. Jussip]]></description>
       <pubDate>Tue, 18 May 2021 14:54:22 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%82_%CF%81%CF%82-06-%CF%80%CF%84%CE%B9-%CE%BC%CF%80%CE%B5%CF%81%CE%BD%CF%84/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/0/c/6/b/605d-cce4-4171-8907-fb61c308ddaa.m4a?sig=ZZExo0mMVx-fYvd8E3Ugfw"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/0/c/6/b/605d-cce4-4171-8907-fb61c308ddaa.m4a?sig=ZZExo0mMVx-fYvd8E3Ugfw"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/e/2/7edb-5f2e-48bc-9960-a9892c9ae80c"/>
-      <itunes:duration>8179</itunes:duration>
+      <itunes:duration>02:16:19</itunes:duration>
       <itunes:summary><![CDATA[TRILIZES Radio Show 06.
 ΠΤΙ ΜΠΕΡΝΤ
 ft. Jussip]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -187,15 +199,16 @@ ft. Jussip]]></itunes:summary>
       <description><![CDATA[TRILIZES Radio Show 05.
 COSMOSIS]]></description>
       <pubDate>Mon, 19 Apr 2021 10:42:30 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_rs-05-cosmosis/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/1/e/4/c/5ef0-6a9a-45f1-b8f9-460a3578f4ce.m4a?sig=0oos0p15cqhfo5A7VUfp8A"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/1/e/4/c/5ef0-6a9a-45f1-b8f9-460a3578f4ce.m4a?sig=0oos0p15cqhfo5A7VUfp8A"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/2/d/d/a41c-1a2d-41b8-86ea-47d6c3073259"/>
-      <itunes:duration>7084</itunes:duration>
+      <itunes:duration>01:58:04</itunes:duration>
       <itunes:summary><![CDATA[TRILIZES Radio Show 05.
 COSMOSIS]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -204,15 +217,16 @@ COSMOSIS]]></itunes:summary>
       <description><![CDATA[TRILIZES Radio Show 03.
 WORK-IT]]></description>
       <pubDate>Fri, 16 Apr 2021 13:35:22 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_rs-03-work-it/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/a/b/4/7/8259-94d0-4805-ac70-ca0093ad2859.m4a?sig=s7NAUYUMo-7R0uAzbVl38A"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/a/b/4/7/8259-94d0-4805-ac70-ca0093ad2859.m4a?sig=s7NAUYUMo-7R0uAzbVl38A"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/d/e/e/c751-0082-4451-ae9b-ab5562c65dd0"/>
-      <itunes:duration>7193</itunes:duration>
+      <itunes:duration>01:59:53</itunes:duration>
       <itunes:summary><![CDATA[TRILIZES Radio Show 03.
 WORK-IT]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -222,16 +236,17 @@ WORK-IT]]></itunes:summary>
 
 Φέρνουμε μία έξτρα χαλαρή διάθεση, ακούγοντας διάφορους γνωστούς-και-μη καλλιτέχνες, με ονόματα όπως Kanye West, Khruangbin, Negros tou Moria, & Freddie Gibbs.]]></description>
       <pubDate>Fri, 16 Apr 2021 07:01:11 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/saturday-night-phunkin-wt-phat-cult-extra-chill-mix/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/c/a/e/e/d160-40ef-457d-a204-5c1b105ded79.m4a?sig=NbuYZM-F9YRQNBWAPabZqQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/c/a/e/e/d160-40ef-457d-a204-5c1b105ded79.m4a?sig=NbuYZM-F9YRQNBWAPabZqQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/9/d/5/d37c-4d93-4403-921d-44ebe2073431"/>
-      <itunes:duration>7366</itunes:duration>
+      <itunes:duration>02:02:46</itunes:duration>
       <itunes:summary><![CDATA[Ηχογραφημένη εκπομπή από τις 10-4-21.
 
 Φέρνουμε μία έξτρα χαλαρή διάθεση, ακούγοντας διάφορους γνωστούς-και-μη καλλιτέχνες, με ονόματα όπως Kanye West, Khruangbin, Negros tou Moria, & Freddie Gibbs.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -239,14 +254,15 @@ WORK-IT]]></itunes:summary>
       <title><![CDATA[Cloud Thursday - WU TANG Tribute.]]></title>
       <description><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα στους WU-TANG, ίσως το σπουδαιότερο συγκρότημα που γέννησε ποτέ αυτή η μουσική. Enter the WU!]]></description>
       <pubDate>Fri, 09 Apr 2021 10:40:29 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-wu-tang-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/1/e/c/2/4299-3fff-477e-9592-5e18179ac2b2.m4a?sig=zGMlv6-wqOWzn-7X0NZYFw"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/1/e/c/2/4299-3fff-477e-9592-5e18179ac2b2.m4a?sig=zGMlv6-wqOWzn-7X0NZYFw"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/7/d/0deb-2d7f-4cec-b036-bb7f24680afd"/>
-      <itunes:duration>7084</itunes:duration>
+      <itunes:duration>01:58:04</itunes:duration>
       <itunes:summary><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα στους WU-TANG, ίσως το σπουδαιότερο συγκρότημα που γέννησε ποτέ αυτή η μουσική. Enter the WU!]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -254,14 +270,15 @@ WORK-IT]]></itunes:summary>
       <title><![CDATA[Cloud Thursday - SEAN PRICE Tribute]]></title>
       <description><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα στον Sean Price, έναν από τους πιο δυνατούς MCs στο παιχνίδι που μας άφησε νωρίς. RIP.]]></description>
       <pubDate>Thu, 08 Apr 2021 11:42:47 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-sean-price-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/9/8/b/b/6e0c-7412-4e87-a216-24e9239b71e6.m4a?sig=LoB2I6BFQAucl-IBdY7PaQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/9/8/b/b/6e0c-7412-4e87-a216-24e9239b71e6.m4a?sig=LoB2I6BFQAucl-IBdY7PaQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/4/4/3/5871-5df0-4374-9192-c2cc8b4393b2"/>
-      <itunes:duration>7380</itunes:duration>
+      <itunes:duration>02:03:00</itunes:duration>
       <itunes:summary><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα στον Sean Price, έναν από τους πιο δυνατούς MCs στο παιχνίδι που μας άφησε νωρίς. RIP.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -269,14 +286,15 @@ WORK-IT]]></itunes:summary>
       <title><![CDATA[Cloud Thursday - MF DOOM Tribute]]></title>
       <description><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα σε έναν από τους μεγαλύτερους MCs όλων των εποχών που με το ιδιαίτερο στυλ του άφησε το αποτύπωμα του στο παιχνίδι. RIP.]]></description>
       <pubDate>Wed, 07 Apr 2021 09:08:52 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-mf-doom-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/a/5/a/6/ec62-4b07-48a7-b025-dd36c0e0ce28.m4a?sig=52T93tBNszJK_XT_KO20eQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/a/5/a/6/ec62-4b07-48a7-b025-dd36c0e0ce28.m4a?sig=52T93tBNszJK_XT_KO20eQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/c/6/fc69-242c-4695-90b7-5d0e7e8b4708"/>
-      <itunes:duration>7274</itunes:duration>
+      <itunes:duration>02:01:14</itunes:duration>
       <itunes:summary><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα σε έναν από τους μεγαλύτερους MCs όλων των εποχών που με το ιδιαίτερο στυλ του άφησε το αποτύπωμα του στο παιχνίδι. RIP.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -284,14 +302,15 @@ WORK-IT]]></itunes:summary>
       <title><![CDATA[Cloud Thursday - ALCHEMIST Tribute]]></title>
       <description><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα σε έναν από τους μεγαλύτερους beatmakers όλων των εποχών, τον Alchemist.]]></description>
       <pubDate>Tue, 06 Apr 2021 14:09:09 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-alchemist-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/2/d/c/e/f374-583f-43ca-ad6f-adda23b6af16.m4a?sig=U-09x42x-2RCJfigxJ6Phg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/2/d/c/e/f374-583f-43ca-ad6f-adda23b6af16.m4a?sig=U-09x42x-2RCJfigxJ6Phg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/e/1/2/4b90-5400-486c-b01e-24b1e5e56331"/>
-      <itunes:duration>7625</itunes:duration>
+      <itunes:duration>02:07:05</itunes:duration>
       <itunes:summary><![CDATA[Η εκπομπή "Cloud Thursday" με τον Φάνη Αφανή, μεταδίδεται ζωντανά κάθε Πέμπτη 21:00 - 23:00 από τον ραδιοφωνικό σταθμό του KickIt (radio.kickit.gr). Η συγκεκριμένη εκπομπή είναι ένα ραδιοφωνικό αφιέρωμα σε έναν από τους μεγαλύτερους beatmakers όλων των εποχών, τον Alchemist.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -300,15 +319,16 @@ WORK-IT]]></itunes:summary>
       <description><![CDATA[TRILIZES Radio Show 04.
 PROVOS 21]]></description>
       <pubDate>Fri, 02 Apr 2021 11:36:50 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_-rs-04-provos-2021/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/9/0/9/c/5dba-a034-43f9-a1d5-cd51e5235ba4.m4a?sig=VdtkmmzI1r0WzeJTVV6fDg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/9/0/9/c/5dba-a034-43f9-a1d5-cd51e5235ba4.m4a?sig=VdtkmmzI1r0WzeJTVV6fDg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/4/8/5/a94f-6501-47c4-b11d-3a10f4930ad2"/>
-      <itunes:duration>7312</itunes:duration>
+      <itunes:duration>02:01:52</itunes:duration>
       <itunes:summary><![CDATA[TRILIZES Radio Show 04.
 PROVOS 21]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -316,14 +336,15 @@ PROVOS 21]]></itunes:summary>
       <title><![CDATA[Squeeze The Fruit S01E02]]></title>
       <description><![CDATA[We choose the fruits, enjoy your juice! Episode 2!!]]></description>
       <pubDate>Fri, 12 Mar 2021 09:35:33 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/squeeze-the-fruit-s01e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/0/1/b/c/a7b3-dde4-4b04-ac69-e6bf35f2aa66.m4a?sig=BPflYIyDlcQwu9EWq8NmHQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/0/1/b/c/a7b3-dde4-4b04-ac69-e6bf35f2aa66.m4a?sig=BPflYIyDlcQwu9EWq8NmHQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/d/f/0/2a97-0236-41f2-90b7-0cbeb527af69"/>
-      <itunes:duration>7077</itunes:duration>
+      <itunes:duration>01:57:57</itunes:duration>
       <itunes:summary><![CDATA[We choose the fruits, enjoy your juice! Episode 2!!]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -332,15 +353,16 @@ PROVOS 21]]></itunes:summary>
       <description><![CDATA[FRIYALL!
 We choose the fruits, enjoy your juice!]]></description>
       <pubDate>Fri, 12 Mar 2021 09:13:39 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/squeeze-the-fruits-s01e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/8/2/5/6/55ac-2f33-4b60-9d2b-72c4c245e21d.m4a?sig=_dkRVZHA0Q4EEz-xv4Llow"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/8/2/5/6/55ac-2f33-4b60-9d2b-72c4c245e21d.m4a?sig=_dkRVZHA0Q4EEz-xv4Llow"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/5/9/c/34fb-52c3-4c48-a6c2-2b7053764273"/>
-      <itunes:duration>7123</itunes:duration>
+      <itunes:duration>01:58:43</itunes:duration>
       <itunes:summary><![CDATA[FRIYALL!
 We choose the fruits, enjoy your juice!]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -348,14 +370,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[ΤΡΙΛΙΖΕΣ S01E02 - "Soulseek"]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Wed, 24 Feb 2021 10:38:28 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%83-s01e02-soulseek/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/9/b/1/7/c272-4a3b-4c47-b340-0df17d13b457.m4a?sig=2o0myhnjXWi-APTIpTaUjw"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/9/b/1/7/c272-4a3b-4c47-b340-0df17d13b457.m4a?sig=2o0myhnjXWi-APTIpTaUjw"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/f/f/4/210e-7bda-4323-a5b4-7b1c05f4a5b9"/>
-      <itunes:duration>3857</itunes:duration>
+      <itunes:duration>01:04:17</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -363,14 +386,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[ΤΡΙΛΙΖΕΣ S01E01 - Το Πρελούδιο]]></title>
       <description><![CDATA[Από τα χωράφια των καταπιεσμένων, μέχρι τα dancefloors του σήμερα, ξεδιπλώνεται όλη η ιστορία της μουσικής, την οποία θα αναμοχλεύουμε χωρίς χρονική σειρά, αναζητώντας αυτές και αυτούς που με τις δονήσεις τους μετακίνησαν τον κόσμο έστω και ένα χιλιοστό".]]></description>
       <pubDate>Wed, 24 Feb 2021 10:27:55 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%83-s01e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/8/3/a/c/f5ab-857f-4325-a333-0b1936d977e9.m4a?sig=D08_ctZhz4TldiDLUO6ZtA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/8/3/a/c/f5ab-857f-4325-a333-0b1936d977e9.m4a?sig=D08_ctZhz4TldiDLUO6ZtA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/8/7/5/91bf-fd84-4920-b4bb-243b08eb7309"/>
-      <itunes:duration>7148</itunes:duration>
+      <itunes:duration>01:59:08</itunes:duration>
       <itunes:summary><![CDATA[Από τα χωράφια των καταπιεσμένων, μέχρι τα dancefloors του σήμερα, ξεδιπλώνεται όλη η ιστορία της μουσικής, την οποία θα αναμοχλεύουμε χωρίς χρονική σειρά, αναζητώντας αυτές και αυτούς που με τις δονήσεις τους μετακίνησαν τον κόσμο έστω και ένα χιλιοστό".]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -378,14 +402,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Trip Hazard wt. Lask EP2 ∙ Jazz Rap]]></title>
       <description><![CDATA[A show focused on the music genre of jazz & rap combined.]]></description>
       <pubDate>Tue, 23 Feb 2021 21:28:57 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trip-hazard-wt-lask-ep2-jazz-rap/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/a/1/2/b/c33f-9fa6-454f-ac3a-65769fac6618.m4a?sig=xEhSf161v7VZ5gH2hBIUFA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/a/1/2/b/c33f-9fa6-454f-ac3a-65769fac6618.m4a?sig=xEhSf161v7VZ5gH2hBIUFA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/5/4/2/6b36-89b1-4c10-8f66-1f74e2a50677"/>
-      <itunes:duration>7303</itunes:duration>
+      <itunes:duration>02:01:43</itunes:duration>
       <itunes:summary><![CDATA[A show focused on the music genre of jazz & rap combined.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -393,14 +418,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[THE PHAT SHOW - GREEK TRIBUTE 13-02-2021]]></title>
       <description><![CDATA[Μετά από πολλά αναπάντεχα, και μιάμιση ώρα τεχνικών προβλημάτων, καταφέραμε να παρουσιάσουμε ένα ελληνικό αφιέρωμα με μουσικές που αγαπήσαμε. Njoy!]]></description>
       <pubDate>Sat, 20 Feb 2021 10:58:30 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/the-phat-show-greek-tribute-13-02-2021/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/3/4/7/6/d126-3cdf-45ce-a1b7-6f72c644e0ac.m4a?sig=o_Qh7OUeMU4ov-gNszoCMQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/3/4/7/6/d126-3cdf-45ce-a1b7-6f72c644e0ac.m4a?sig=o_Qh7OUeMU4ov-gNszoCMQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/1/3/6/f6ee-bf4c-4f9a-8ca4-52f35eababbd"/>
-      <itunes:duration>8095</itunes:duration>
+      <itunes:duration>02:14:55</itunes:duration>
       <itunes:summary><![CDATA[Μετά από πολλά αναπάντεχα, και μιάμιση ώρα τεχνικών προβλημάτων, καταφέραμε να παρουσιάσουμε ένα ελληνικό αφιέρωμα με μουσικές που αγαπήσαμε. Njoy!]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -408,14 +434,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Trip Hazard wt. Lask EP1]]></title>
       <description><![CDATA[This episode focuses on genres that are a mixture of jazz, electronic, and hip hop.]]></description>
       <pubDate>Wed, 10 Feb 2021 21:25:02 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trip-hazard-wt-lask-ep1/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/9/c/8/2/dc9d-887e-44c3-a0ee-0519a1e120e2.m4a?sig=XIzz_p0XCc92F1yVTYDpXA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/9/c/8/2/dc9d-887e-44c3-a0ee-0519a1e120e2.m4a?sig=XIzz_p0XCc92F1yVTYDpXA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/2/d/9/196d-5678-4745-a4b9-0fff1332a3e6"/>
-      <itunes:duration>6085</itunes:duration>
+      <itunes:duration>01:41:25</itunes:duration>
       <itunes:summary><![CDATA[This episode focuses on genres that are a mixture of jazz, electronic, and hip hop.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -423,14 +450,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[MoxieKult vol.1 wt. VoxPopuli]]></title>
       <description><![CDATA[VoxPopuli on the decks of KickIt Radio. Athens Greece. Sunday 15/11/20]]></description>
       <pubDate>Mon, 28 Dec 2020 19:34:48 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/moxiekult-vol1-wt-voxpopuli/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/f/3/3/e/f002-480d-46a6-b0d9-21700c82e023.m4a?sig=iCZtdfWc5cUVP6KGcOhj7A"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/f/3/3/e/f002-480d-46a6-b0d9-21700c82e023.m4a?sig=iCZtdfWc5cUVP6KGcOhj7A"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/0/a/a/ab03-41d4-476b-98a7-559b77791cbd"/>
-      <itunes:duration>7190</itunes:duration>
+      <itunes:duration>01:59:50</itunes:duration>
       <itunes:summary><![CDATA[VoxPopuli on the decks of KickIt Radio. Athens Greece. Sunday 15/11/20]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -438,14 +466,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Whiskey bar S02 E05]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Tue, 15 Dec 2020 22:51:38 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e05/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/7/e/d/2/597f-3987-4c38-bddf-b92d0e5e88f9.m4a?sig=q-Q-vAPU1j0mqoKdq7o4xQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/7/e/d/2/597f-3987-4c38-bddf-b92d0e5e88f9.m4a?sig=q-Q-vAPU1j0mqoKdq7o4xQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/c/d/2/7667-6235-4daf-998f-8006e325a25e"/>
-      <itunes:duration>8057</itunes:duration>
+      <itunes:duration>02:14:17</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -453,14 +482,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Whiskey bar S02 E04]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Wed, 09 Dec 2020 10:22:40 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/8/7/9/e/8aa5-455f-4d68-bfc6-3d6ab6f6a09c.m4a?sig=4EAZ9Ox6OtdYeRBDP7G8_Q"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/8/7/9/e/8aa5-455f-4d68-bfc6-3d6ab6f6a09c.m4a?sig=4EAZ9Ox6OtdYeRBDP7G8_Q"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/2/9/0b5e-0b85-427b-a720-fa5f0404dde3"/>
-      <itunes:duration>7661</itunes:duration>
+      <itunes:duration>02:07:41</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -468,14 +498,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Whiskey bar S02 E03]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Wed, 02 Dec 2020 19:32:24 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/d/f/5/c/0d03-e95f-4006-a47a-21b8815baa31.m4a?sig=uo_nUd_zoMgTL8VRZWOc9g"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/d/f/5/c/0d03-e95f-4006-a47a-21b8815baa31.m4a?sig=uo_nUd_zoMgTL8VRZWOc9g"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/2/1/8/c2f2-386a-431f-9415-f7701e378614"/>
-      <itunes:duration>7558</itunes:duration>
+      <itunes:duration>02:05:58</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -483,14 +514,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Back2Black S02E06]]></title>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sat, 28 Nov 2020 20:38:11 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e06/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/d/0/5/2/27c2-8d77-4f65-996f-29f0c45fd60a.m4a?sig=rAG54RXUj6ZQlVr4yHFLvQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/d/0/5/2/27c2-8d77-4f65-996f-29f0c45fd60a.m4a?sig=rAG54RXUj6ZQlVr4yHFLvQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/0/e/e/c87a-30c3-4c02-ac67-e2f3995ca26b"/>
-      <itunes:duration>7473</itunes:duration>
+      <itunes:duration>02:04:33</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -498,14 +530,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Back2Black S02E05]]></title>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sat, 28 Nov 2020 20:31:54 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e05/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/6/7/1/3/804b-f6f5-4cfd-991a-3c527294795a.m4a?sig=gRLwnHjxgvKaH10CBHwUww"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/6/7/1/3/804b-f6f5-4cfd-991a-3c527294795a.m4a?sig=gRLwnHjxgvKaH10CBHwUww"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/d/e/f/6b67-ff87-4a90-9329-243a4b6038be"/>
-      <itunes:duration>6654</itunes:duration>
+      <itunes:duration>01:50:54</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -513,14 +546,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Back2Black S02E04]]></title>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sat, 28 Nov 2020 20:20:29 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/f/1/7/6/49d9-791b-41bf-88af-2fc5a958a9c9.m4a?sig=zJBdpq8PZ73j9kHCCwz1_g"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/f/1/7/6/49d9-791b-41bf-88af-2fc5a958a9c9.m4a?sig=zJBdpq8PZ73j9kHCCwz1_g"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/4/1/0/6af2-27b3-4439-8fef-9c45065c81d5"/>
-      <itunes:duration>8031</itunes:duration>
+      <itunes:duration>02:13:51</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -528,14 +562,15 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <title><![CDATA[Back2Black S02E03]]></title>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sat, 28 Nov 2020 19:28:48 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/3/8/8/d/66b0-43d2-4550-a3c1-a71fe01fcf7b.m4a?sig=xhEdqEW27niiUnFtAVwYzA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/3/8/8/d/66b0-43d2-4550-a3c1-a71fe01fcf7b.m4a?sig=xhEdqEW27niiUnFtAVwYzA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/7/1/33e8-d5f9-48a7-a5cc-2c789c46840f"/>
-      <itunes:duration>7045</itunes:duration>
+      <itunes:duration>01:57:25</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (kickit.gr). Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -544,15 +579,16 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sat, 28 Nov 2020 18:33:43 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/7/f/8/d/7ec2-42ca-4e34-a798-68889e93d543.m4a?sig=4cIM5gDn7Hd_SYJslIuwcg"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/7/f/8/d/7ec2-42ca-4e34-a798-68889e93d543.m4a?sig=4cIM5gDn7Hd_SYJslIuwcg"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/9/5/3b72-c0fe-47f9-a10f-c68ffb10381a"/>
-      <itunes:duration>7202</itunes:duration>
+      <itunes:duration>02:00:02</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -560,14 +596,15 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:s
       <title><![CDATA[Whiskey bar - S02 E02]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Wed, 25 Nov 2020 13:30:03 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/9/4/7/a/bb33-7204-4464-9002-1d7c8b55e99e.m4a?sig=ICD3gh9snytTpmNpK_SILw"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/9/4/7/a/bb33-7204-4464-9002-1d7c8b55e99e.m4a?sig=ICD3gh9snytTpmNpK_SILw"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/0/3/0/58d0-adde-4b4e-8d02-fd8b0df986a8"/>
-      <itunes:duration>7823</itunes:duration>
+      <itunes:duration>02:10:23</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -575,14 +612,15 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:s
       <title><![CDATA[Whiskey bar - S02E01]]></title>
       <description><![CDATA[Ένα πολιτικό - κοινωνικό ραδιοφωνικό μαγκαζίνο, λίγο αλλιώτικο από τα άλλα.]]></description>
       <pubDate>Tue, 03 Nov 2020 20:40:21 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/e/d/d/c/137f-ff9e-4f4a-aad1-b3c1b287ae03.m4a?sig=foctQLwcLDw4R6hRGmpHbQ"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/e/d/d/c/137f-ff9e-4f4a-aad1-b3c1b287ae03.m4a?sig=foctQLwcLDw4R6hRGmpHbQ"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/4/c/a/4d02-5cf7-4582-abd0-b18946b5c291"/>
-      <itunes:duration>7613</itunes:duration>
+      <itunes:duration>02:06:53</itunes:duration>
       <itunes:summary><![CDATA[Ένα πολιτικό - κοινωνικό ραδιοφωνικό μαγκαζίνο, λίγο αλλιώτικο από τα άλλα.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
@@ -591,15 +629,16 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:s
       <description><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sun, 18 Oct 2020 11:17:46 +0000</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream9.mixcloud.com/secure/c/m4a/64/1/4/e/b/2845-22ab-4270-9d56-914956ac77f7.m4a?sig=06cNTAe5hBJ56OMb8uPerA"/>
+      <enclosure type="audio/mpeg" url="https://stream10.mixcloud.com/secure/c/m4a/64/1/4/e/b/2845-22ab-4270-9d56-914956ac77f7.m4a?sig=06cNTAe5hBJ56OMb8uPerA"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/6/e/7/70b9-306f-4d1f-bcee-9c693c7c44ae"/>
-      <itunes:duration>7461</itunes:duration>
+      <itunes:duration>02:04:21</itunes:duration>
       <itunes:summary><![CDATA[Back2Black, a weekly radio show @ Kickit Radio (www.kickit.gr).
 Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     
   </channel>

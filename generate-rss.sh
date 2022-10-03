@@ -17,10 +17,10 @@ done
 mkdir -vp docs
 
 # Fetch mixcloud data
-youtube-dl --geo-bypass -f http https://www.mixcloud.com/${USER}/ -J --skip-download | jq '.entries[].timestamp |= strftime("%a, %d %b %Y %H:%M:%S +0000")' > ${MIXCLOUD_JSON_DATA}
+youtube-dl --geo-bypass -f http https://www.mixcloud.com/${USER}/ -J --skip-download | jq '.entries[].duration |= strftime("%H:%M:%S")' | jq '.entries[].timestamp |= strftime("%a, %d %b %Y %H:%M:%S +0000")'  > ${MIXCLOUD_JSON_DATA}
 
 # GENERATE RSS
-jinja render -d "${MIXCLOUD_JSON_DATA}" -t ./template.yaml -lb -tb --extra-var last_build="$(date -R)" > ${NEW_RSS}
+jinja render -d "${MIXCLOUD_JSON_DATA}" -t ./template.rss -lb -tb --extra-var last_build="$(date -R)" > ${NEW_RSS}
 
 # Check if contents of file are newer
 CURRENT_DATE=$(date --date "$(cat docs/${USER}.rss |  grep -oP "<pubDate>\K(.+)(?=</pubDate>)" | head -n 1)" +%s)

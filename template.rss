@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0">
   <channel>
-    <generator>mpecorp podcast generator</generator>
     <title>KickIt.gr Podcasts</title>
     <description>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</description>
-    <copyright>kickit.gr</copyright>
-    <language>el</language>
-    <pubDate>{{ entries[0].timestamp }}</pubDate>
-    <lastBuildDate>{{ last_build }}</lastBuildDate>
+    <itunes:summary>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</itunes:summary>
+    <link>https://www.kickit.gr</link>
     <image>
       <link>https://www.kickit.gr</link>
       <title>KickIt.gr Podcasts</title>
      <url>https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43</url>
     </image>
-    <link>https://www.kickit.gr</link>
-    <itunes:summary>KickIt.gr Radio RSS</itunes:summary>
+    <generator>mpecorp podcast generator</generator>
+    <atom:link href="https://glogiotatidis.github.io/kickit-rss/kickitathens.rss" rel="self" type="application/rss+xml"/>
+    <language>el</language>
+    <pubDate>{{ entries[0].timestamp }}</pubDate>
+    <lastBuildDate>{{ last_build }}</lastBuildDate>
+    <author>KickIt.gr</author>
     <itunes:author>KickIt.gr</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
@@ -23,6 +23,9 @@
       <itunes:name>KickIt.gr</itunes:name>
       <itunes:email>info@kickit.gr</itunes:email>
     </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/600x600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
     <itunes:category text="Music"/>
 
     {% for entry in entries %}
@@ -31,7 +34,7 @@
       <title><![CDATA[{{ entry.title }}]]></title>
       <description><![CDATA[{{ entry.description }}]]></description>
       <pubDate>{{ entry.timestamp }}</pubDate>
-      <author>info@kickit.gr</author>
+      <dc:creator>{{ entry.uploader }}</dc:creator>
       <link>{{ entry.webpage_url }}</link>
       <enclosure type="audio/mpeg" url="{{ entry.url }}"/>
       <itunes:author>{{ entry.uploader }}</itunes:author>
@@ -39,6 +42,7 @@
       <itunes:duration>{{ entry.duration }}</itunes:duration>
       <itunes:summary><![CDATA[{{ entry.description }}]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
     {% endfor %}
   </channel>
