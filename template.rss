@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">>
   <channel>
     <title>KickIt.gr Podcasts</title>
     <description>KickIt Radio is the official Radio Station of the music &amp; culture portal kickit.gr. Urban sounds, black music, wild guitars &amp; special deatures from Athens to the whole world.</description>
@@ -38,6 +38,7 @@
       <dc:creator>{{ entry.uploader }}</dc:creator>
       <link>{{ entry.webpage_url }}</link>
       <enclosure type="audio/mpeg" url="{{ entry.url }}"/>
+      <media:content url="{{ entry.thumbnail }}" medium="image"/>
       <itunes:author>{{ entry.uploader }}</itunes:author>
       <itunes:image href="{{ entry.thumbnail }}"/>
       <itunes:duration>{{ entry.duration }}</itunes:duration>
