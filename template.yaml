@@ -29,7 +29,7 @@
     {% for entry in entries %}
     <item>
       <guid isPermaLink="false">{{ entry.id }}</guid>
-      <title>{{ entry.title }}</title>
+      <title><![CDATA[{{ entry.title }}]]</title>
       <description><![CDATA[{{ entry.description }}]]></description>
       <pubDate>{{ entry.timestamp }}</pubDate>
       <author>{{ entry.uploader }}</author>
