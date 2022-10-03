@@ -5,7 +5,7 @@ git push --set-upstream origin master
 python3 -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
-./generate-rss.sh
+./generate-rss.sh $@
 
 NEW_FILES=$(git diff --quiet || echo "yes")
 

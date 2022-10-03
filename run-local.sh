@@ -3,4 +3,4 @@
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/kickit-rss
 git pull
-./run.sh
+./run.sh $@
