@@ -13,8 +13,8 @@
     <generator>mpecorp podcast generator</generator>
     <atom:link href="https://glogiotatidis.github.io/kickit-rss/kickitathens.rss" rel="self" type="application/rss+xml"/>
     <language>el</language>
-    <pubDate>Sun, 11 Dec 2022 16:56:24 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Dec 2022 19:01:07 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Dec 2022 21:12:02 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 13:59:18 +0200</lastBuildDate>
     <author>KickIt.gr</author>
     <itunes:author>KickIt.gr</itunes:author>
     <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1600x1600/profile/8/6/1/1/a5b6-1f24-4466-bd20-d382c78fea43"/>
@@ -30,13 +30,94 @@
 
     
     <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s04e03-high-school-intensifies-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s04e03 - High School Intensifies @kickit.gr]]></title>
+      <description><![CDATA[Blur - Song 2
+The Offspring - Self Esteem
+Green Day - Basket Case
+Ska-P - Cannabis
+RHCP - Around the World
+Linkin Park - Runaway
+Limp Bizkit - Rollin'
+Radiohead - Paranoid Android
+Pearl Jam - Jeremy
+The Smashing Pumkins - Bullet With Butterfly Wings
+The Smiths - Bigmouth Strikes Again
+Pixies - Hey
+Alien Ant Farm - Smooth Criminal
+White Stripes - There's no home for you here
+The Strokes - New York City Cops
+Nirvana - Breed
+Beastie Boys - Fight For Your Right
+Rage Against The Machine - Know Your Enemy
+Metallica - The Memory Remains (Live, S&M)
+System Of A Down - Toxicity
+Slipknot - Duality
+Deftones - Be Quiet And Drive (far away)
+Τρύπες - Δε Χωράς Πουθενά
+Terror X Crew - Η Γεύση Του Μένους
+Queens of the Stone Age - Song For The Dead
+Kyuss - Gardenia
+Tool - Parabol/Parabola
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 12 Dec 2022 21:12:02 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s04e03-high-school-intensifies-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/2/6/2/7415-7dd2-4567-873c-4de74d46bf71.m4a?sig=yOM7WPId_pg7o1MIxWDr1g"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/1/5/3d85-4904-410e-9725-35aad2518b4e" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/1/5/3d85-4904-410e-9725-35aad2518b4e"/>
+      <itunes:duration>02:31:37</itunes:duration>
+      <itunes:summary><![CDATA[Blur - Song 2
+The Offspring - Self Esteem
+Green Day - Basket Case
+Ska-P - Cannabis
+RHCP - Around the World
+Linkin Park - Runaway
+Limp Bizkit - Rollin'
+Radiohead - Paranoid Android
+Pearl Jam - Jeremy
+The Smashing Pumkins - Bullet With Butterfly Wings
+The Smiths - Bigmouth Strikes Again
+Pixies - Hey
+Alien Ant Farm - Smooth Criminal
+White Stripes - There's no home for you here
+The Strokes - New York City Cops
+Nirvana - Breed
+Beastie Boys - Fight For Your Right
+Rage Against The Machine - Know Your Enemy
+Metallica - The Memory Remains (Live, S&M)
+System Of A Down - Toxicity
+Slipknot - Duality
+Deftones - Be Quiet And Drive (far away)
+Τρύπες - Δε Χωράς Πουθενά
+Terror X Crew - Η Γεύση Του Μένους
+Queens of the Stone Age - Song For The Dead
+Kyuss - Gardenia
+Tool - Parabol/Parabola
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
       <guid isPermaLink="false">kickitathens_basement-vibes-s01e06</guid>
       <title><![CDATA[Basement Vibes S01E05]]></title>
       <description><![CDATA[]]></description>
       <pubDate>Sun, 11 Dec 2022 16:56:24 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/basement-vibes-s01e06/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/0/b/b/a/fa78-523e-41e4-85b7-87b02846c64a.m4a?sig=coP6Q0IHo_vXlgGMHrs_hA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/0/b/b/a/fa78-523e-41e4-85b7-87b02846c64a.m4a?sig=coP6Q0IHo_vXlgGMHrs_hA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/d/7/9/4fc7-de9c-463a-aa6a-9d0ee37f1117" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/d/7/9/4fc7-de9c-463a-aa6a-9d0ee37f1117"/>
@@ -53,7 +134,7 @@
       <pubDate>Sun, 11 Dec 2022 12:06:35 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/beatroots-s04e06/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/d/d/e/b/d2f3-4838-4c73-912b-e052e7b1b6b0.m4a?sig=77ToWUnNr6QnEMXfm89naQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/d/e/b/d2f3-4838-4c73-912b-e052e7b1b6b0.m4a?sig=77ToWUnNr6QnEMXfm89naQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/2/8/6/d68c-a261-4eb6-8ab1-1cc50d07401d" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/2/8/6/d68c-a261-4eb6-8ab1-1cc50d07401d"/>
@@ -70,7 +151,7 @@
       <pubDate>Mon, 05 Dec 2022 00:31:47 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/blue-hours-s01e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/6/3/1/0/7d31-8a6e-4f00-bfbf-ef4f7c0782f3.m4a?sig=xwHOsEbQLxw-RFUC32h8JA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/3/1/0/7d31-8a6e-4f00-bfbf-ef4f7c0782f3.m4a?sig=xwHOsEbQLxw-RFUC32h8JA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/4/6/6/9484-6c77-4b36-9bc0-9c76de5301e1" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/4/6/6/9484-6c77-4b36-9bc0-9c76de5301e1"/>
@@ -87,7 +168,7 @@
       <pubDate>Sun, 04 Dec 2022 12:13:44 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/beatroots-s04e05/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/5/5/5/3/5398-5276-4f25-8ecf-77abbc1ec293.m4a?sig=SO-HJoeq7pZWNdzoifIlQQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/5/5/3/5398-5276-4f25-8ecf-77abbc1ec293.m4a?sig=SO-HJoeq7pZWNdzoifIlQQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/0/a/f/e94b-1c63-45d8-a85e-275d5f171d00" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/0/a/f/e94b-1c63-45d8-a85e-275d5f171d00"/>
@@ -104,12 +185,100 @@
       <pubDate>Sat, 03 Dec 2022 13:50:19 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/basement-vibes-s01e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/d/3/8/e/f878-b31b-4fbc-93e0-1c02bdf78207.m4a?sig=wlsSF89E4exfHV6FIvXO7A"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/3/8/e/f878-b31b-4fbc-93e0-1c02bdf78207.m4a?sig=wlsSF89E4exfHV6FIvXO7A"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/1/4/b7cd-c2a3-41f9-82df-bfb9ae4099cb" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/1/4/b7cd-c2a3-41f9-82df-bfb9ae4099cb"/>
       <itunes:duration>01:03:24</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">unpopularopinions_016_ρισάικλιν</guid>
+      <title><![CDATA[016_Ρισάικλιν]]></title>
+      <description><![CDATA[Διαολεμενo χάρτινο καλαμάκι, αυτή η μάστιγα. Μην αρχίσουμε να λέμε και για το χάρτινο ποτήρι ή τις βιοδιασπώμενες σακούλες. Ή μήπως να πούμε; Αφού το θέλετε λοιπόν, ανακύκλωση το τόπικ μας. 
+[29.11.2022]]]></description>
+      <pubDate>Wed, 30 Nov 2022 15:34:33 +0000</pubDate>
+      <dc:creator>ΑνΠόπιουλαρ Οπίνιονς</dc:creator>
+      <link>https://www.mixcloud.com/unpopularopinions/016_%CF%81%CE%B9%CF%83%CE%AC%CE%B9%CE%BA%CE%BB%CE%B9%CE%BD/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/e/e/3/ffb8-a328-46e2-9ace-d6cb5aeeb53e.m4a?sig=_pYUyHLoUw5Ri9IHcjFlsw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/6/7/a/5c2c-56b1-47c8-b0b9-b8716e479155" medium="image"/>
+      <itunes:author>ΑνΠόπιουλαρ Οπίνιονς</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/6/7/a/5c2c-56b1-47c8-b0b9-b8716e479155"/>
+      <itunes:duration>02:00:09</itunes:duration>
+      <itunes:summary><![CDATA[Διαολεμενo χάρτινο καλαμάκι, αυτή η μάστιγα. Μην αρχίσουμε να λέμε και για το χάρτινο ποτήρι ή τις βιοδιασπώμενες σακούλες. Ή μήπως να πούμε; Αφού το θέλετε λοιπόν, ανακύκλωση το τόπικ μας. 
+[29.11.2022]]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s04e02-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s04e02 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/2Nh4yiJoVmRR7Va7RL4TdE?si=2b5956d2015243b9
+
+Fontaines DC - Jackie Down The Line
+RHEA - If Only
+Queens of the Stone Age - 3's & 7's
+Blood Red Shoes - MORBID FASCINATION
+Yeah Yeah Yeahs - Spitting Off the Edge of the World
+Nilüfer Yanya - midnight sun
+Radiohead - Jigsaw Falling Into Place
+Kiwi Jr. - Night Vision
+The Strokes - Bad Decisions
+The Linda Lindas - Tonite
+Nova Twins - Antagonist
+Muse - We Are Fucking Fucked
+Metallica - Lux AEterna
+Limp Bizkit - Take A Look Around
+Playgrounded - The Death of Death
+Brutus - Victoria
+King Gizzard & The Lizard Wizard - Magenta Mountain
+Goat - Do The Dance
+The Libertines - Time for Heroes
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 28 Nov 2022 20:21:07 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s04e02-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/8/6/9/76f0-4994-4289-9646-9cdbce563371.m4a?sig=_-bC9seE2Lgq0pHADd-C9w"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/9/e/5/f677-bc7f-4a39-be23-ff99141c1978" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/9/e/5/f677-bc7f-4a39-be23-ff99141c1978"/>
+      <itunes:duration>01:59:25</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/2Nh4yiJoVmRR7Va7RL4TdE?si=2b5956d2015243b9
+
+Fontaines DC - Jackie Down The Line
+RHEA - If Only
+Queens of the Stone Age - 3's & 7's
+Blood Red Shoes - MORBID FASCINATION
+Yeah Yeah Yeahs - Spitting Off the Edge of the World
+Nilüfer Yanya - midnight sun
+Radiohead - Jigsaw Falling Into Place
+Kiwi Jr. - Night Vision
+The Strokes - Bad Decisions
+The Linda Lindas - Tonite
+Nova Twins - Antagonist
+Muse - We Are Fucking Fucked
+Metallica - Lux AEterna
+Limp Bizkit - Take A Look Around
+Playgrounded - The Death of Death
+Brutus - Victoria
+King Gizzard & The Lizard Wizard - Magenta Mountain
+Goat - Do The Dance
+The Libertines - Time for Heroes
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -121,7 +290,7 @@
       <pubDate>Sun, 27 Nov 2022 12:12:20 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/beatroots-s04e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/b/d/f/8/6082-b319-453a-9862-57731810c615.m4a?sig=OYXeVtR21RJxuHENOc5Tyw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/d/f/8/6082-b319-453a-9862-57731810c615.m4a?sig=OYXeVtR21RJxuHENOc5Tyw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/5/4/3/d279-bd82-4d47-b684-327b8644ec56" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/5/4/3/d279-bd82-4d47-b684-327b8644ec56"/>
@@ -138,7 +307,7 @@
       <pubDate>Sun, 27 Nov 2022 12:08:12 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/beatroots-s04e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/4/0/b/d/dee0-fab5-468d-b8ca-9eaa7ece8c91.m4a?sig=SdM6Y6M7cDwuPxyDr7CPzw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/4/0/b/d/dee0-fab5-468d-b8ca-9eaa7ece8c91.m4a?sig=SdM6Y6M7cDwuPxyDr7CPzw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/1/4/6/8382-5d43-4dd0-8abf-c2cc84823642" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/1/4/6/8382-5d43-4dd0-8abf-c2cc84823642"/>
@@ -155,12 +324,35 @@
       <pubDate>Sun, 27 Nov 2022 12:02:43 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/beatroots-s04e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/f/c/5/0/5ee2-d4fd-4911-b3ad-3e6c68624635.m4a?sig=U2hF-d5OxYLTKe3AeXeZzA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/c/5/0/5ee2-d4fd-4911-b3ad-3e6c68624635.m4a?sig=U2hF-d5OxYLTKe3AeXeZzA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/0/4/6/5e10-f97d-4061-96b9-28d4caa4cf57" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/0/4/6/5e10-f97d-4061-96b9-28d4caa4cf57"/>
       <itunes:duration>01:58:44</itunes:duration>
       <itunes:summary><![CDATA[Sundays wt.urban vibes @ Kickit Radio. From Athens to the World. https://radio.kickit.gr]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s02e4</guid>
+      <title><![CDATA[Tourlou - s02e4]]></title>
+      <description><![CDATA[https://open.spotify.com/playlist/4UC05fRjAdSHSmSKG7776P?si=858a6cf484e74871
+
+www.radio.kickit.gr
+www.kickit.gr]]></description>
+      <pubDate>Thu, 24 Nov 2022 21:13:24 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s02e4/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/3/8/e/33dc-ca29-4c9b-ae44-b984ca4db0f0.m4a?sig=bK_TdU5xOpFq8lgwl-F_Xw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/c/e/e/9355-08ad-431f-8505-f6cb1773bfcd" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/c/e/e/9355-08ad-431f-8505-f6cb1773bfcd"/>
+      <itunes:duration>00:59:00</itunes:duration>
+      <itunes:summary><![CDATA[https://open.spotify.com/playlist/4UC05fRjAdSHSmSKG7776P?si=858a6cf484e74871
+
+www.radio.kickit.gr
+www.kickit.gr]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -172,7 +364,7 @@
       <pubDate>Thu, 24 Nov 2022 22:22:25 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/basement-vibes-s01e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/3/9/5/5/4edd-0783-4cc9-9d34-d1d92982e2bb.m4a?sig=l55dZ-1_Py6KUTQziIBkYg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/9/5/5/4edd-0783-4cc9-9d34-d1d92982e2bb.m4a?sig=l55dZ-1_Py6KUTQziIBkYg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/b/8/1/a882-ead2-4f5d-9746-d60918c3e1fd" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/b/8/1/a882-ead2-4f5d-9746-d60918c3e1fd"/>
@@ -190,7 +382,7 @@
       <pubDate>Thu, 24 Nov 2022 09:49:42 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/spill-the-wine-wt-konksa-s04e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/b/4/4/b/afe6-5f7c-4008-b2fe-6d19c0a96205.m4a?sig=xy-o493GPMJvnpg9onGl1g"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/4/4/b/afe6-5f7c-4008-b2fe-6d19c0a96205.m4a?sig=xy-o493GPMJvnpg9onGl1g"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/9/2/5/745d-8fcc-444b-b564-6b2b70197030" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/9/2/5/745d-8fcc-444b-b564-6b2b70197030"/>
@@ -210,7 +402,7 @@
       <pubDate>Mon, 21 Nov 2022 19:12:58 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/basement-vibes-s01e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/5/d/8/0/5b5d-3ebb-437a-81ed-3667a579ddea.m4a?sig=INmvNHiciGsgCcgzAEVV1w"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/d/8/0/5b5d-3ebb-437a-81ed-3667a579ddea.m4a?sig=INmvNHiciGsgCcgzAEVV1w"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/f/4/4/4f7c-277e-41c3-9184-56e8a6da4cf0" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/f/4/4/4f7c-277e-41c3-9184-56e8a6da4cf0"/>
@@ -218,6 +410,113 @@
       <itunes:summary><![CDATA[⚡ Οι Πέμπτες πλέον κλείνουν με άλλον αέρα. Υπόγειο συγκεκριμένα.
 Κάθε Πέμπτη από τις 23:00 μέχρι και τα μεσάνυχτα θα σας κάνουμε συντροφιά μέσω του Basement Vibes με Hip Hop ρεπερτόριο που σε βάζει σε άλλον κόσμο, πέρα από τον ζοφερό τοίχο της καθημερινότητας.
 Συντονιστείτε και αποδράστε στο https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s04e01-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s04e01 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/5egSt6b31H8RmbWs6AqG8e?si=132a7e2f16b8453e
+
+Pixies - Debaser
+Harry Nilsson - Gotta Get Up
+Red Hot Chili Peppers - Eddie
+The Black Keys - Wild Child
+...And You Will Know Us By The Trail Of Dead - Field Song
+All Them Witches - L' hotel Serein
+Reignwolf, Brad Wilk - The Woods
+Liam Gallagher - Everything's Electric
+Fontaines DC - Roman Holiday
+Iggy Pop - Frenzy
+Frenzee - Fire In My Gut
+Amyl And The Sniffers - Security
+Wine Lips - Get Your Money
+The Hellacopters - Reap a Hurricane
+Viagra Boys - Troglodyte
+cleopatrick - Scaring Me
+Hoveriii - The Pearl
+Deaf Radio - Quicksand
+Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Hot Stuff
+Deftones - Be Quiet And Drive (Far Away)
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 14 Nov 2022 20:20:29 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s04e01-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/2/6/4/73c6-aafe-4653-923b-70b81527faa3.m4a?sig=q3AgCSTzJ9yb5qYIK0Ym_A"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/d/7/7/f889-bcd4-40db-86b9-fc5d70a75884" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/d/7/7/f889-bcd4-40db-86b9-fc5d70a75884"/>
+      <itunes:duration>02:02:18</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/5egSt6b31H8RmbWs6AqG8e?si=132a7e2f16b8453e
+
+Pixies - Debaser
+Harry Nilsson - Gotta Get Up
+Red Hot Chili Peppers - Eddie
+The Black Keys - Wild Child
+...And You Will Know Us By The Trail Of Dead - Field Song
+All Them Witches - L' hotel Serein
+Reignwolf, Brad Wilk - The Woods
+Liam Gallagher - Everything's Electric
+Fontaines DC - Roman Holiday
+Iggy Pop - Frenzy
+Frenzee - Fire In My Gut
+Amyl And The Sniffers - Security
+Wine Lips - Get Your Money
+The Hellacopters - Reap a Hurricane
+Viagra Boys - Troglodyte
+cleopatrick - Scaring Me
+Hoveriii - The Pearl
+Deaf Radio - Quicksand
+Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Hot Stuff
+Deftones - Be Quiet And Drive (Far Away)
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s02e03</guid>
+      <title><![CDATA[Tourlou - s02e03]]></title>
+      <description><![CDATA[https://open.spotify.com/playlist/7y9DV8X61bahY6ZllasVHl?si=f82099e64a024643]]></description>
+      <pubDate>Thu, 17 Nov 2022 21:06:09 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s02e03/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/4/7/8/1191-f183-4024-af86-02a388e0ef85.m4a?sig=HW2lnONZGwOvgGOSBwYKaw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/a/c/4/e934-3eab-4d6c-9ca6-0f342a344c23" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/a/c/4/e934-3eab-4d6c-9ca6-0f342a344c23"/>
+      <itunes:duration>01:07:47</itunes:duration>
+      <itunes:summary><![CDATA[https://open.spotify.com/playlist/7y9DV8X61bahY6ZllasVHl?si=f82099e64a024643]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">unpopularopinions_015_ελληνικό-χιπ-χοπ-τα-πρώτα-χρόνια</guid>
+      <title><![CDATA[015_Ελληνικό Χιπ Χοπ Τα πρώτα χρόνια]]></title>
+      <description><![CDATA[Μετά από αρκετές θεματικές και μουσικές περιπλανήσεις, το ΑνΠόπιουλαρ Οπίνιονς είναι έτοιμο για ένα μουσικό ταξίδι στα γεννοφάσκια του ελληνικού χιπ χοπ.
+[15.11.2022]]]></description>
+      <pubDate>Wed, 16 Nov 2022 14:29:44 +0000</pubDate>
+      <dc:creator>ΑνΠόπιουλαρ Οπίνιονς</dc:creator>
+      <link>https://www.mixcloud.com/unpopularopinions/015_%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C-%CF%87%CE%B9%CF%80-%CF%87%CE%BF%CF%80-%CF%84%CE%B1-%CF%80%CF%81%CF%8E%CF%84%CE%B1-%CF%87%CF%81%CF%8C%CE%BD%CE%B9%CE%B1/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/0/7/5/0867-da7a-408e-9da1-ff0e72168a52.m4a?sig=Av4Wn6m1IAmnb9XkTIdI6w"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/c/2/a/4f1e-e52d-41cd-8dee-e0bb575e8121" medium="image"/>
+      <itunes:author>ΑνΠόπιουλαρ Οπίνιονς</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/c/2/a/4f1e-e52d-41cd-8dee-e0bb575e8121"/>
+      <itunes:duration>02:02:19</itunes:duration>
+      <itunes:summary><![CDATA[Μετά από αρκετές θεματικές και μουσικές περιπλανήσεις, το ΑνΠόπιουλαρ Οπίνιονς είναι έτοιμο για ένα μουσικό ταξίδι στα γεννοφάσκια του ελληνικού χιπ χοπ.
+[15.11.2022]]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -231,7 +530,7 @@
       <pubDate>Sun, 13 Nov 2022 21:27:42 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/basement-vibes-s01e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/3/f/3/e/158c-28b4-4215-968c-16f155081448.m4a?sig=ApL9xoPMVRjJCXvlDeV1jg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/f/3/e/158c-28b4-4215-968c-16f155081448.m4a?sig=ApL9xoPMVRjJCXvlDeV1jg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/c/9/e/ab34-8bae-4341-8694-7979f097b2e1" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/c/9/e/ab34-8bae-4341-8694-7979f097b2e1"/>
@@ -244,18 +543,684 @@
     </item>
     
     <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s02e02</guid>
+      <title><![CDATA[Tourlou - s02e02]]></title>
+      <description><![CDATA[https://open.spotify.com/playlist/1FgGr8dK0znYbtFZThaOYN?si=984a16bf0d954990]]></description>
+      <pubDate>Thu, 10 Nov 2022 21:08:58 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s02e02/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/7/9/c/5e23-4a7b-4ea2-aeaf-c5fe5f4c5ed3.m4a?sig=S_B44x_zzoxyMqbKVG0GAg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/c/6/0/480f-99aa-4301-8609-b9bff1f90d4b" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/c/6/0/480f-99aa-4301-8609-b9bff1f90d4b"/>
+      <itunes:duration>01:01:20</itunes:duration>
+      <itunes:summary><![CDATA[https://open.spotify.com/playlist/1FgGr8dK0znYbtFZThaOYN?si=984a16bf0d954990]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">unpopularopinions_014_τζεντριφικεισον</guid>
+      <title><![CDATA[014_Τζεντριφικέισον]]></title>
+      <description><![CDATA[Καλώς ήρθατε στο Gentrification.
+Καλώς ήρθατε  στο καινούργιο πλάνο για την πόλη.
+Καλώς ήρθατε στο δημιουργικό αστικό τοπίο που εκτοπίζει.
+Καλώς ήρθατε σε αυτό που δεν μπορούμε να μεταφράσουμε ακριβώς.
+Θα προσπαθήσουμε όμως να το εξηγήσουμε.
+[08.11.2022]]]></description>
+      <pubDate>Wed, 09 Nov 2022 17:25:00 +0000</pubDate>
+      <dc:creator>ΑνΠόπιουλαρ Οπίνιονς</dc:creator>
+      <link>https://www.mixcloud.com/unpopularopinions/014_%CF%84%CE%B6%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CF%86%CE%B9%CE%BA%CE%B5%CE%B9%CF%83%CE%BF%CE%BD/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/c/5/1/3/4443-4775-4be0-a5fe-9cff90a5f07e.m4a?sig=8dzjpIcXQDNjIbGAixHUvQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/0/4/5c9a-a647-4aa7-8056-10bc02236a82" medium="image"/>
+      <itunes:author>ΑνΠόπιουλαρ Οπίνιονς</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/0/4/5c9a-a647-4aa7-8056-10bc02236a82"/>
+      <itunes:duration>02:00:56</itunes:duration>
+      <itunes:summary><![CDATA[Καλώς ήρθατε στο Gentrification.
+Καλώς ήρθατε  στο καινούργιο πλάνο για την πόλη.
+Καλώς ήρθατε στο δημιουργικό αστικό τοπίο που εκτοπίζει.
+Καλώς ήρθατε σε αυτό που δεν μπορούμε να μεταφράσουμε ακριβώς.
+Θα προσπαθήσουμε όμως να το εξηγήσουμε.
+[08.11.2022]]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s02e01</guid>
+      <title><![CDATA[Tourlou - s02e01]]></title>
+      <description><![CDATA[https://open.spotify.com/playlist/1BTJghHRydAbx8Gi2LU9mp?si=567d5d1b451245ef]]></description>
+      <pubDate>Thu, 03 Nov 2022 21:22:42 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s02e01/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/7/2/4/6/29ff-ddf8-4235-8bea-c4b79564e18a.m4a?sig=MPhgNkrneNsDK3BFRpFIUQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/8/c/a/3a93-9585-402c-962c-dbe69e408d8a" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/8/c/a/3a93-9585-402c-962c-dbe69e408d8a"/>
+      <itunes:duration>01:02:42</itunes:duration>
+      <itunes:summary><![CDATA[https://open.spotify.com/playlist/1BTJghHRydAbx8Gi2LU9mp?si=567d5d1b451245ef]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">unpopularopinions_013_ελίζα-death</guid>
+      <title><![CDATA[013_Ελίζα-Death]]></title>
+      <description><![CDATA[Επιστρέφουμε και θα το γιορτάσουμε. Έχουμε άλλωστε κάνα δυο λόγους.
+
+Αρχικά πέφτει πάνω μας το επίσημο όπενιν της φετινής ραδιοφωνικής σεζόν του radio.kickit.gr (τι σκεφτόντουσαν, αλήθεια;) , κι έπειτα (κι ίσως σημαντικότερο;) GOD DIDN'T SAVE THE QUEEN δις τάιμ.
+[01.11.2022]]]></description>
+      <pubDate>Wed, 02 Nov 2022 14:20:31 +0000</pubDate>
+      <dc:creator>ΑνΠόπιουλαρ Οπίνιονς</dc:creator>
+      <link>https://www.mixcloud.com/unpopularopinions/013_%CE%B5%CE%BB%CE%AF%CE%B6%CE%B1-death/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/3/f/e/607d-5c7c-436e-93f3-b77af90d90b5.m4a?sig=Lqd9rXksZARuj1HdanWhJA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/c/3/9/91aa-3b29-47d0-92e7-d2d866bfb02e" medium="image"/>
+      <itunes:author>ΑνΠόπιουλαρ Οπίνιονς</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/c/3/9/91aa-3b29-47d0-92e7-d2d866bfb02e"/>
+      <itunes:duration>02:00:16</itunes:duration>
+      <itunes:summary><![CDATA[Επιστρέφουμε και θα το γιορτάσουμε. Έχουμε άλλωστε κάνα δυο λόγους.
+
+Αρχικά πέφτει πάνω μας το επίσημο όπενιν της φετινής ραδιοφωνικής σεζόν του radio.kickit.gr (τι σκεφτόντουσαν, αλήθεια;) , κι έπειτα (κι ίσως σημαντικότερο;) GOD DIDN'T SAVE THE QUEEN δις τάιμ.
+[01.11.2022]]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
       <guid isPermaLink="false">kickitathens_back2black-wt-austinmod-s03e17</guid>
       <title><![CDATA[Back2Black wt. Austinmod S03E17]]></title>
       <description><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></description>
       <pubDate>Sun, 03 Apr 2022 11:17:04 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e17/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/b/b/7/4/121c-eea3-40e1-a533-4e39f57cfdd4.m4a?sig=3Pq8qLkGXvwPTxDDijO-UQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/b/7/4/121c-eea3-40e1-a533-4e39f57cfdd4.m4a?sig=3Pq8qLkGXvwPTxDDijO-UQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/4/9/b320-0c67-408a-8afb-eac0b0c9f06a" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/4/9/b320-0c67-408a-8afb-eac0b0c9f06a"/>
       <itunes:duration>01:56:33</itunes:duration>
       <itunes:summary><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e15-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e15 @kickit.gr]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/2rvBwqkvUjriTC8JaizkLJ?si=f76026e000bd45da
+
+Fontaines DC - Winter In The Sun
+Nothing But Thieves - Life's Coming in Slow
+Franz Ferdinand - Curious
+The Strokes - Bad Decisions
+Maneskin & Iggy Pop - I Wanna Be Your Slave
+Deap Vally - Magic Medicine
+Lomma - T.Hanks
+The Bonnie Nettles - Saristra
+Frankie and the Witch Fingers - Sweet Freak
+Fake Indians - Lidl Fucks
+SAKURAN ZENSEN - Good Morning
+The Smile - You Will Never Work In Television Again
+Eddie Vedder - Long Way
+Iceage - Lockdown Blues
+Bass Drum of Death - You Were Right
+All Them Witches - Blacksnake Blues
+Loathe, Teenage Wrist - Is It Really You?
+Deftones - Sextape
+Playgrounded - The Swan
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 21 Feb 2022 20:10:32 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e15-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/6/0/4/c158-913d-4234-a2c2-a9e694c092a8.m4a?sig=VYpbqxG0SrfmJn4Th60e7g"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/d/a/b/107e-e762-4a02-9f3d-bf510108263a" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/d/a/b/107e-e762-4a02-9f3d-bf510108263a"/>
+      <itunes:duration>02:00:03</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/2rvBwqkvUjriTC8JaizkLJ?si=f76026e000bd45da
+
+Fontaines DC - Winter In The Sun
+Nothing But Thieves - Life's Coming in Slow
+Franz Ferdinand - Curious
+The Strokes - Bad Decisions
+Maneskin & Iggy Pop - I Wanna Be Your Slave
+Deap Vally - Magic Medicine
+Lomma - T.Hanks
+The Bonnie Nettles - Saristra
+Frankie and the Witch Fingers - Sweet Freak
+Fake Indians - Lidl Fucks
+SAKURAN ZENSEN - Good Morning
+The Smile - You Will Never Work In Television Again
+Eddie Vedder - Long Way
+Iceage - Lockdown Blues
+Bass Drum of Death - You Were Right
+All Them Witches - Blacksnake Blues
+Loathe, Teenage Wrist - Is It Really You?
+Deftones - Sextape
+Playgrounded - The Swan
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Apostolis_L_silent-hedges-with-marquis-radio-kickit-20222</guid>
+      <title><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/2/22]]></title>
+      <description><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/2/22
+@kickitathens
+
+1 Depeche Mode - Master and Servant
+2 New Order - Senses
+3 Sad Lovers And Giants - Clint
+4 Echo & The Bunnymen – Bedbugs And Ballyhoo
+5 Public Image Ltd. - Public Image
+6 British Sea Power - Fear Of Drowning
+7 Libido Blume - Cadillac Dreams
+8 Metro Decay - Evenos
+9 The Cure - Homesick
+10 The Sisters Of Mercy - Possession
+11 The Funeral Warehouse - The Wretched
+12 Remain In Silence - Lonesome Hours
+13 Siouxsie And The Banshees - Night Shift
+14 Selofan - Nichts
+15 November Növelet - So Far No Further
+16 Low Sea - Berlin
+17 Anne Clark - Boy Racing
+18 The Clan Of Xymox - Back Door
+19 London After Midnight - The Spider and The Fly
+20 Plastique Noir - Empty Streets
+21 Xmal Deutschland - Mondlicht
+22 Chandra - Kate 
+23 Bauhaus - Boys
+24 Television - Marquee Moon]]></description>
+      <pubDate>Sun, 27 Feb 2022 16:15:11 +0000</pubDate>
+      <dc:creator>Apostolis_L</dc:creator>
+      <link>https://www.mixcloud.com/Apostolis_L/silent-hedges-with-marquis-radio-kickit-20222/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/6/e/d/d40c-4641-4e74-8951-a052d8ef0300.m4a?sig=1K1t8zWS6K24HVedJQohhg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/2/f/4/e925-a5c8-47f8-a35c-7e687f12d4d3" medium="image"/>
+      <itunes:author>Apostolis_L</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/2/f/4/e925-a5c8-47f8-a35c-7e687f12d4d3"/>
+      <itunes:duration>02:01:59</itunes:duration>
+      <itunes:summary><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/2/22
+@kickitathens
+
+1 Depeche Mode - Master and Servant
+2 New Order - Senses
+3 Sad Lovers And Giants - Clint
+4 Echo & The Bunnymen – Bedbugs And Ballyhoo
+5 Public Image Ltd. - Public Image
+6 British Sea Power - Fear Of Drowning
+7 Libido Blume - Cadillac Dreams
+8 Metro Decay - Evenos
+9 The Cure - Homesick
+10 The Sisters Of Mercy - Possession
+11 The Funeral Warehouse - The Wretched
+12 Remain In Silence - Lonesome Hours
+13 Siouxsie And The Banshees - Night Shift
+14 Selofan - Nichts
+15 November Növelet - So Far No Further
+16 Low Sea - Berlin
+17 Anne Clark - Boy Racing
+18 The Clan Of Xymox - Back Door
+19 London After Midnight - The Spider and The Fly
+20 Plastique Noir - Empty Streets
+21 Xmal Deutschland - Mondlicht
+22 Chandra - Kate 
+23 Bauhaus - Boys
+24 Television - Marquee Moon]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Apostolis_L_silent-hedges-with-marquis-radio-kickit-27222</guid>
+      <title><![CDATA[Silent Hedges with Marquis @ Radio Kickit 27/2/22]]></title>
+      <description><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/2/22
+@kickitathens
+
+1 Echo and the bunnymen - All that jazz
+2 Siouxsie And The Banshees - Happy House
+3 The Cure - A Forest 
+4 The Chameleons - Second Skin (Camden Palace 1985)
+5 Bauhaus - Ziggy Stardust 
+6 The Sisters Of Mercy - Gimme Shelter
+7 Ghost Dance - A Deeper Blue
+8 Mission UK - Beyond The Pale
+9 Indochine - Trois nuits par semaine
+10 Metro Decay - Κειμήλια
+11 Joy Division - She's Lost Control
+12 Malaria! - Kaltes Klares Wasser
+13 Human Tetris - Things I Don't Need
+14 Linea Aspera - Synapse
+15 Anima Triste - Misery
+16 The Cure - The Kiss
+17 Xmal Deutschland - Orient
+18 Remain In Silence - Distant View
+19 Tones On Tail - Performance
+20 Molchat Doma - Na Dne
+21 Siouxsie And The Banshees - Spellbound]]></description>
+      <pubDate>Sun, 27 Feb 2022 22:09:44 +0000</pubDate>
+      <dc:creator>Apostolis_L</dc:creator>
+      <link>https://www.mixcloud.com/Apostolis_L/silent-hedges-with-marquis-radio-kickit-27222/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/1/5/9/e/ab78-72f0-461c-84a1-e8d602d59e4a.m4a?sig=jy8YhFxaQfAjV65Q4U_cVQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/4/7/1/9a20-8ad3-4a00-ada0-383e89b1b716" medium="image"/>
+      <itunes:author>Apostolis_L</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/4/7/1/9a20-8ad3-4a00-ada0-383e89b1b716"/>
+      <itunes:duration>02:02:30</itunes:duration>
+      <itunes:summary><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/2/22
+@kickitathens
+
+1 Echo and the bunnymen - All that jazz
+2 Siouxsie And The Banshees - Happy House
+3 The Cure - A Forest 
+4 The Chameleons - Second Skin (Camden Palace 1985)
+5 Bauhaus - Ziggy Stardust 
+6 The Sisters Of Mercy - Gimme Shelter
+7 Ghost Dance - A Deeper Blue
+8 Mission UK - Beyond The Pale
+9 Indochine - Trois nuits par semaine
+10 Metro Decay - Κειμήλια
+11 Joy Division - She's Lost Control
+12 Malaria! - Kaltes Klares Wasser
+13 Human Tetris - Things I Don't Need
+14 Linea Aspera - Synapse
+15 Anima Triste - Misery
+16 The Cure - The Kiss
+17 Xmal Deutschland - Orient
+18 Remain In Silence - Distant View
+19 Tones On Tail - Performance
+20 Molchat Doma - Na Dne
+21 Siouxsie And The Banshees - Spellbound]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e16-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e16 @kickit.gr]]></title>
+      <description><![CDATA[Morphine - Buena
+Mark Lanegan & Isobel Campbell - Come Undone
+Screaming Trees - Dollar Bill
+Halocraft - A Mother To Scare Away The Darkness
+Naxatras - The Answer
+Whereswilder - Hold Up
+Planet of Zeus - Retreat
+Little Barrie, Malcolm Catto - Rest In Blue
+Gutter Twins - Idle Hands
+The Gun Club - Sex Beat
+NewDad - Ladybird
+Division Of Laura Lee - City Sick
+Liam Gallagher - Everything's Electric
+The Beths - A Real Thing
+Franz Ferdinand - No You Girls
+Queens of the Stone Age - Smooth Sailing
+The Afghan Whigs - I'll Make You See God
+Queens of the Stone Age - Song For The Dead
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 28 Feb 2022 20:11:55 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e16-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/8/6/3/a116-0fd2-4555-9115-34afafbf6a60.m4a?sig=QID9bhcdoTzR_OPt4QbwYw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/8/3/8/e28d-9aa3-4574-ae5d-cdceb72b45a7" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/8/3/8/e28d-9aa3-4574-ae5d-cdceb72b45a7"/>
+      <itunes:duration>01:59:28</itunes:duration>
+      <itunes:summary><![CDATA[Morphine - Buena
+Mark Lanegan & Isobel Campbell - Come Undone
+Screaming Trees - Dollar Bill
+Halocraft - A Mother To Scare Away The Darkness
+Naxatras - The Answer
+Whereswilder - Hold Up
+Planet of Zeus - Retreat
+Little Barrie, Malcolm Catto - Rest In Blue
+Gutter Twins - Idle Hands
+The Gun Club - Sex Beat
+NewDad - Ladybird
+Division Of Laura Lee - City Sick
+Liam Gallagher - Everything's Electric
+The Beths - A Real Thing
+Franz Ferdinand - No You Girls
+Queens of the Stone Age - Smooth Sailing
+The Afghan Whigs - I'll Make You See God
+Queens of the Stone Age - Song For The Dead
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Apostolis_L_silent-hedges-with-marquis-radio-kickit-060322</guid>
+      <title><![CDATA[Silent Hedges with Marquis @ Radio Kickit 06/03/22]]></title>
+      <description><![CDATA[Silent Hedges with Marquis @ Radio Kickit 06/03/22
+@kickitathens
+
+1 Boy Harsher - Lust
+2 Cinemascope - In Silence
+3 Clan Of Xymox - Jasmine And Rose
+4 Elusive - The Circle Never Ends
+5 The Sisters Of Mercy - Nine While Nine
+6 The March Violets - Snake Dance
+7 The Sound - Winning
+8 The Mission UK - Garden Of Delight
+9 She Past Away - Kasvetli Kutlama
+10 Light Asylum - Dark Allies
+11 Minuit Machine - Agoraphobia
+12 Selofan - Billie Was a Vampire
+13 Frozen Autumn - Dusk Is Like a Dagger
+14 Wolfsheim - The Sparrows And The Nightingales
+15 KVB - Never Enough
+16 Depeche Mode - To Have And To Hold
+17 Bauhaus - Silent Hedges
+18 Skeletal Family - She Cries Alone
+19 Joy Division - Shadowplay
+20 Xmal Deutschland - Polarlicht
+21 Pink Turns Blue - Walking On Both Sides
+22 Nick Cave & The Bad Seeds - Train Long Suffering
+23 Siouxsie & The Banshees - Mittageisen
+24 The Sisters Of Mercy - Alice]]></description>
+      <pubDate>Mon, 07 Mar 2022 09:06:19 +0000</pubDate>
+      <dc:creator>Apostolis_L</dc:creator>
+      <link>https://www.mixcloud.com/Apostolis_L/silent-hedges-with-marquis-radio-kickit-060322/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/1/2/f/5445-bb92-4e6e-9e89-8a4018740803.m4a?sig=6cdPTK8XVDSPknJ0M4pZSA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/9/6/2/8ef9-9ff9-4d66-b2bb-4fba100f723e" medium="image"/>
+      <itunes:author>Apostolis_L</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/9/6/2/8ef9-9ff9-4d66-b2bb-4fba100f723e"/>
+      <itunes:duration>01:53:13</itunes:duration>
+      <itunes:summary><![CDATA[Silent Hedges with Marquis @ Radio Kickit 06/03/22
+@kickitathens
+
+1 Boy Harsher - Lust
+2 Cinemascope - In Silence
+3 Clan Of Xymox - Jasmine And Rose
+4 Elusive - The Circle Never Ends
+5 The Sisters Of Mercy - Nine While Nine
+6 The March Violets - Snake Dance
+7 The Sound - Winning
+8 The Mission UK - Garden Of Delight
+9 She Past Away - Kasvetli Kutlama
+10 Light Asylum - Dark Allies
+11 Minuit Machine - Agoraphobia
+12 Selofan - Billie Was a Vampire
+13 Frozen Autumn - Dusk Is Like a Dagger
+14 Wolfsheim - The Sparrows And The Nightingales
+15 KVB - Never Enough
+16 Depeche Mode - To Have And To Hold
+17 Bauhaus - Silent Hedges
+18 Skeletal Family - She Cries Alone
+19 Joy Division - Shadowplay
+20 Xmal Deutschland - Polarlicht
+21 Pink Turns Blue - Walking On Both Sides
+22 Nick Cave & The Bad Seeds - Train Long Suffering
+23 Siouxsie & The Banshees - Mittageisen
+24 The Sisters Of Mercy - Alice]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e16</guid>
+      <title><![CDATA[Tourlou - s01e16]]></title>
+      <description><![CDATA[Songs:
+
+Juggernaut - Frank Carter and the Rattlesnakes
+Bernard trigger - Cleopatrick
+.CoDA. - Dead poet society
+Ordinary - YONAKA
+It’s getting boring by the sea - Blood Red Shoes
+Black and Red - Reignwolf
+I.W.G.F.U - Tigercub
+3’s & 7’s - Queens of the Stone Age
+Free Animal - Death From Above 1979
+Teach me to flight - YONAKA
+Figure it out - Royal Blood
+GOOD GRIEF - Cleopatrick
+Husk - Black Foxxes
+I Don’t do drugs, I sweat a lot - Bicurious
+Concrete - Shame
+Will you smile Again for me - …And you will know us by the trail of dead
+Clement - The dead pirates
+All out - Public Service Broadcasting
+I Like to Smile when I’m sad -  FREAK
+Mother - IDLES
+I hate you - Frank Carter and the Rattlesnakes
+
+Spotify Playlist - https://open.spotify.com/playlist/512eelUrvaNCmhKYiaCXGR?si=710e0fa6290c4b0d
+
+radio.kickit.gr]]></description>
+      <pubDate>Thu, 10 Mar 2022 19:07:57 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e16/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/0/5/b/f71f-7855-4a21-b862-373c82835583.m4a?sig=JHbaVU_vHlMCL3v3H5MV4Q"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/4/2/a/d044-c652-4ea8-a408-75277228d995" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/4/2/a/d044-c652-4ea8-a408-75277228d995"/>
+      <itunes:duration>01:58:09</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Juggernaut - Frank Carter and the Rattlesnakes
+Bernard trigger - Cleopatrick
+.CoDA. - Dead poet society
+Ordinary - YONAKA
+It’s getting boring by the sea - Blood Red Shoes
+Black and Red - Reignwolf
+I.W.G.F.U - Tigercub
+3’s & 7’s - Queens of the Stone Age
+Free Animal - Death From Above 1979
+Teach me to flight - YONAKA
+Figure it out - Royal Blood
+GOOD GRIEF - Cleopatrick
+Husk - Black Foxxes
+I Don’t do drugs, I sweat a lot - Bicurious
+Concrete - Shame
+Will you smile Again for me - …And you will know us by the trail of dead
+Clement - The dead pirates
+All out - Public Service Broadcasting
+I Like to Smile when I’m sad -  FREAK
+Mother - IDLES
+I hate you - Frank Carter and the Rattlesnakes
+
+Spotify Playlist - https://open.spotify.com/playlist/512eelUrvaNCmhKYiaCXGR?si=710e0fa6290c4b0d
+
+radio.kickit.gr]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e17-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e17 @kickit.gr]]></title>
+      <description><![CDATA[Kadavar - Last Living Dinosaur
+Iceage - Lockdown Blues
+Children of the Sun - Leaves
+Heavy Feather - Love Will Come Easy
+Hot Breath - Right Time
+Dirty Sound Magnet - Heavy Hours
+Psychedelic Porn Crumpets - Lava Lamp Pisco
+The Black Keys - Wild Child
+Beware of Darkness - Howl
+Naxatras - Omega Madness
+SLIFT - Ummon
+Little Barrie - Rest In Blue
+SAKURAN-ZENSEN - Hone to Hana
+Beach Riot - Tune In, Drop Out
+Zen Guerilla - Moonage Daydream
+Loathe, Teenage Wrist - Is It Really You?
+Playgrounded - Tomorrow's Rainbow
+Charles Bradley - Changes
+
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 21 Mar 2022 20:18:26 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e17-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/8/e/9/d5e0-6146-44b3-a1e4-37fd323fba69.m4a?sig=iWQSVfc8kHmJf4I9aNexrg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/6/4/3/3ec6-9c13-4b3c-97c8-47b41deacf00" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/6/4/3/3ec6-9c13-4b3c-97c8-47b41deacf00"/>
+      <itunes:duration>02:08:16</itunes:duration>
+      <itunes:summary><![CDATA[Kadavar - Last Living Dinosaur
+Iceage - Lockdown Blues
+Children of the Sun - Leaves
+Heavy Feather - Love Will Come Easy
+Hot Breath - Right Time
+Dirty Sound Magnet - Heavy Hours
+Psychedelic Porn Crumpets - Lava Lamp Pisco
+The Black Keys - Wild Child
+Beware of Darkness - Howl
+Naxatras - Omega Madness
+SLIFT - Ummon
+Little Barrie - Rest In Blue
+SAKURAN-ZENSEN - Hone to Hana
+Beach Riot - Tune In, Drop Out
+Zen Guerilla - Moonage Daydream
+Loathe, Teenage Wrist - Is It Really You?
+Playgrounded - Tomorrow's Rainbow
+Charles Bradley - Changes
+
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e18-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e18 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/0L8Q4cmueFiagHBQjLv5Fb?si=3b760abab1844d5a
+
+shame - One Rizla
+Efterklang - Living Other Lives
+Russian Circles - Harper Lewis
+Soen - Lotus
+King Gizzard & The Lizard Wizard - Mystery Jack
+Nick Mason - Fearless (Pink Floyd cover)
+dEUS - Suds & Soda
+The Jesus and Mary Chain - Darklands
+Mogwai - Ritchie Sacramento
+Fontaines DC - I Love You
+Nick Cave & The Bad Seeds - Breathless
+Yungblud - hope for the underrated youth
+Nothing But Thieves - Amsterdam
+Muse - Plug In Baby
+The K's - Sarajevo
+Sleaford Mods, Amy Taylor - Nudge It
+Liam Gallagher - Once
+Iggy Pop - Candy
+Viagra Boys - Sports
+Naxatras - Journey to Narahmon
+Clutch - Ghost
+
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 28 Mar 2022 19:10:47 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e18-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/c/1/9/9/babf-4786-47e0-aa3b-b012f6350199.m4a?sig=dC46rkZcESKkY3UvrhzNzQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/4/5/1f5b-aa4c-4460-8011-a6feb2cb0524" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/4/5/1f5b-aa4c-4460-8011-a6feb2cb0524"/>
+      <itunes:duration>02:02:34</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/0L8Q4cmueFiagHBQjLv5Fb?si=3b760abab1844d5a
+
+shame - One Rizla
+Efterklang - Living Other Lives
+Russian Circles - Harper Lewis
+Soen - Lotus
+King Gizzard & The Lizard Wizard - Mystery Jack
+Nick Mason - Fearless (Pink Floyd cover)
+dEUS - Suds & Soda
+The Jesus and Mary Chain - Darklands
+Mogwai - Ritchie Sacramento
+Fontaines DC - I Love You
+Nick Cave & The Bad Seeds - Breathless
+Yungblud - hope for the underrated youth
+Nothing But Thieves - Amsterdam
+Muse - Plug In Baby
+The K's - Sarajevo
+Sleaford Mods, Amy Taylor - Nudge It
+Liam Gallagher - Once
+Iggy Pop - Candy
+Viagra Boys - Sports
+Naxatras - Journey to Narahmon
+Clutch - Ghost
+
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Apostolis_L_silent-hedges-with-marquis-radio-kickit-200322</guid>
+      <title><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/03/22]]></title>
+      <description><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/03/22
+@kickitathens]]></description>
+      <pubDate>Fri, 01 Apr 2022 17:39:16 +0000</pubDate>
+      <dc:creator>Apostolis_L</dc:creator>
+      <link>https://www.mixcloud.com/Apostolis_L/silent-hedges-with-marquis-radio-kickit-200322/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/c/d/5/61d6-7443-4a04-ad8a-ef86210b184d.m4a?sig=illdcMGtmWJCMEe8O_xIJg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/b/5/0/83f2-7613-480a-b955-57068a2eee3c" medium="image"/>
+      <itunes:author>Apostolis_L</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/b/5/0/83f2-7613-480a-b955-57068a2eee3c"/>
+      <itunes:duration>01:54:56</itunes:duration>
+      <itunes:summary><![CDATA[Silent Hedges with Marquis @ Radio Kickit 20/03/22
+@kickitathens]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Apostolis_L_silent-hedges-with-marquis-radio-kickit-270322</guid>
+      <title><![CDATA[Silent Hedges with Marquis @ Radio Kickit 27/03/22]]></title>
+      <description><![CDATA[Silent Hedges with Marquis @ Radio Kickit 27/03/22
+@kickitathens]]></description>
+      <pubDate>Fri, 01 Apr 2022 17:43:45 +0000</pubDate>
+      <dc:creator>Apostolis_L</dc:creator>
+      <link>https://www.mixcloud.com/Apostolis_L/silent-hedges-with-marquis-radio-kickit-270322/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/2/8/d/5559-b89d-4ed8-bc93-ea86b1c5f4be.m4a?sig=q5jXpsybzFlHBCVADoP_LQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/2/2/b/6ee1-99ce-4831-8de7-4c53fcd6b4bc" medium="image"/>
+      <itunes:author>Apostolis_L</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/2/2/b/6ee1-99ce-4831-8de7-4c53fcd6b4bc"/>
+      <itunes:duration>01:57:51</itunes:duration>
+      <itunes:summary><![CDATA[Silent Hedges with Marquis @ Radio Kickit 27/03/22
+@kickitathens]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -269,7 +1234,7 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
       <pubDate>Tue, 15 Mar 2022 12:44:04 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/saturday-morning-fever-with-fanis-afanis-live-interview-with-vos-f-yonassis-19th-of-feb-2022/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/3/7/8/1/138f-147b-4243-8ff5-2420bf819063.m4a?sig=Kw2mTXKl84_GJPOQiml3MA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/7/8/1/138f-147b-4243-8ff5-2420bf819063.m4a?sig=Kw2mTXKl84_GJPOQiml3MA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/9/8/e/7efb-bab3-4a30-bae6-7a59e8e9ec09" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/9/8/e/7efb-bab3-4a30-bae6-7a59e8e9ec09"/>
@@ -288,12 +1253,976 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
       <pubDate>Sun, 06 Mar 2022 12:19:28 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e15/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/a/2/f/a/2b5a-b574-4512-8cb4-90cec0de2a48.m4a?sig=aWHmqc7sBO93sF-WlPsCIw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/2/f/a/2b5a-b574-4512-8cb4-90cec0de2a48.m4a?sig=aWHmqc7sBO93sF-WlPsCIw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/5/5/dce9-9e9e-4628-a83f-631e3ed7ad2d" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/5/5/5/dce9-9e9e-4628-a83f-631e3ed7ad2d"/>
       <itunes:duration>01:59:30</itunes:duration>
       <itunes:summary><![CDATA[Weekly radio show. Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e15</guid>
+      <title><![CDATA[Tourlou - s01e15]]></title>
+      <description><![CDATA[Songs:
+
+Nema - Mother Of Millions
+Looking For The Rain - UNKLE & Mark Lanegan
+Millenium Blues - VIC
+Apollo - Rendezvous Point
+Prey - Votum & Anneke
+Leaves - The Gathering
+Little Sun - Blues Pills
+Too Much Is Not Enough - Graveyard
+Shifts - Katatonia
+444 - Crippled Black Phoenix
+Talisman - All Them Witches
+(If You Want The Smoke) Be The Fire - Maidavale
+One (Live) - Metallica
+War Pigs - Black Sabbath
+4 Minutes Warning - Radiohead
+Killing In The Name - Rage Against The Machine
+Song For The Dead - QOTSA
+
+Spotify Playlist - https://open.spotify.com/playlist/4WrHfial3s2g2jToXqz1w2?si=16c1c2b9ddcc4240]]></description>
+      <pubDate>Thu, 24 Feb 2022 21:24:39 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e15/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/7/8/b/1c2b-3d8e-4250-b2c5-164b67e7c5ad.m4a?sig=ByVnVc1Ji7oVPwjnNOgxiw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/f/c/c/335d-5fde-4894-9da6-6672bab9f481" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/f/c/c/335d-5fde-4894-9da6-6672bab9f481"/>
+      <itunes:duration>01:49:43</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Nema - Mother Of Millions
+Looking For The Rain - UNKLE & Mark Lanegan
+Millenium Blues - VIC
+Apollo - Rendezvous Point
+Prey - Votum & Anneke
+Leaves - The Gathering
+Little Sun - Blues Pills
+Too Much Is Not Enough - Graveyard
+Shifts - Katatonia
+444 - Crippled Black Phoenix
+Talisman - All Them Witches
+(If You Want The Smoke) Be The Fire - Maidavale
+One (Live) - Metallica
+War Pigs - Black Sabbath
+4 Minutes Warning - Radiohead
+Killing In The Name - Rage Against The Machine
+Song For The Dead - QOTSA
+
+Spotify Playlist - https://open.spotify.com/playlist/4WrHfial3s2g2jToXqz1w2?si=16c1c2b9ddcc4240]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e14</guid>
+      <title><![CDATA[Tourlou - s01e14]]></title>
+      <description><![CDATA[Songs:
+
+Glass soul shattering - Porcupine Tree
+Landmines - RIshloo
+Deadhead (Live) - Devin Townsend
+Amber - Mother of Millions
+On A Tuesday - Pain Of Salvation
+Wonderful Life - Alter Bridge
+Right in Two - TOOL
+Stray the skies - VOLA
+Dark Waters - Agent Fresco
+Futureprood - Nothing But Thieves
+Radiologue - OSI
+The space in between - How To Destroy Angels
+The Swan - Playgrounded
+Slave - Leprous
+The Moon - Sofia Sarri
+Won't Stand Down - Muse
+
+Spotify Playlist - https://open.spotify.com/playlist/6TBE3YNny3HQi225NW8Mz7?si=1b929cc7d5ee4b51]]></description>
+      <pubDate>Thu, 24 Feb 2022 20:37:25 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e14/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/c/e/9/681b-5686-4bfc-bdcc-51cb1279b87f.m4a?sig=H_Uni5rXGXwUaT-oTnJCTQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/8/4/f/daa0-5939-48a3-bde3-7359cc644eff" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/8/4/f/daa0-5939-48a3-bde3-7359cc644eff"/>
+      <itunes:duration>01:55:24</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Glass soul shattering - Porcupine Tree
+Landmines - RIshloo
+Deadhead (Live) - Devin Townsend
+Amber - Mother of Millions
+On A Tuesday - Pain Of Salvation
+Wonderful Life - Alter Bridge
+Right in Two - TOOL
+Stray the skies - VOLA
+Dark Waters - Agent Fresco
+Futureprood - Nothing But Thieves
+Radiologue - OSI
+The space in between - How To Destroy Angels
+The Swan - Playgrounded
+Slave - Leprous
+The Moon - Sofia Sarri
+Won't Stand Down - Muse
+
+Spotify Playlist - https://open.spotify.com/playlist/6TBE3YNny3HQi225NW8Mz7?si=1b929cc7d5ee4b51]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e13</guid>
+      <title><![CDATA[Tourlou - s01e13]]></title>
+      <description><![CDATA[Songs: 
+
+Ο Διαβόλος κατέβηκε στο Χολαργό - Ημισκούμπρια
+Παρτο όπως θες - TXC
+Νεο-Ελληνα άκου - Αλφα Γαμα
+Νέο τρόπος σκέψης - FFC/ Νέβμα/ Παρεμβόλες
+Παραμύθι - FFC
+Κανένας πόνος δεν είναι αρκετός - Razastarr
+Βαστίλη - Στίχοιμα
+Οικογένεια - Λογω τίμης
+Ετοιμάζομαι - Novel 729
+Να αγαπάς τελικά είναι πιο εύκολο - Anser
+Να έρθεις απόψε να με βρείς - Βέβηλος
+Το αφήσαμε για αύριο - Εισβολέας
+Το μετά - Ταφ Λάθος
+Δεν είμαστε αδέρφια με όλους - Πίσω τα πάντα
+Αλήθεια - Zoro & Buzz
+Διαστημοπλοια - Lex
+Για να νικήσουν - Social Waste
+Μέρες παράξενες, θαυμάσιες μέρες - Active Member
+Για την αγάπη αυτή - Ρόδες
+
+Spotify playlist - https://open.spotify.com/playlist/3bA4WaMD1Ph2MSXaaQyO8w?si=0da50afc247b4d3c]]></description>
+      <pubDate>Thu, 24 Feb 2022 20:26:23 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e13/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/2/8/0/d695-6232-4aaf-98df-157207ae7c22.m4a?sig=SPTEyP6pcBJZZxtj6D0DiA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/f/9/e/aaee-976c-4755-8253-4c6e2c137f1c" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/f/9/e/aaee-976c-4755-8253-4c6e2c137f1c"/>
+      <itunes:duration>02:00:57</itunes:duration>
+      <itunes:summary><![CDATA[Songs: 
+
+Ο Διαβόλος κατέβηκε στο Χολαργό - Ημισκούμπρια
+Παρτο όπως θες - TXC
+Νεο-Ελληνα άκου - Αλφα Γαμα
+Νέο τρόπος σκέψης - FFC/ Νέβμα/ Παρεμβόλες
+Παραμύθι - FFC
+Κανένας πόνος δεν είναι αρκετός - Razastarr
+Βαστίλη - Στίχοιμα
+Οικογένεια - Λογω τίμης
+Ετοιμάζομαι - Novel 729
+Να αγαπάς τελικά είναι πιο εύκολο - Anser
+Να έρθεις απόψε να με βρείς - Βέβηλος
+Το αφήσαμε για αύριο - Εισβολέας
+Το μετά - Ταφ Λάθος
+Δεν είμαστε αδέρφια με όλους - Πίσω τα πάντα
+Αλήθεια - Zoro & Buzz
+Διαστημοπλοια - Lex
+Για να νικήσουν - Social Waste
+Μέρες παράξενες, θαυμάσιες μέρες - Active Member
+Για την αγάπη αυτή - Ρόδες
+
+Spotify playlist - https://open.spotify.com/playlist/3bA4WaMD1Ph2MSXaaQyO8w?si=0da50afc247b4d3c]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e12</guid>
+      <title><![CDATA[Tourlou - s01e12]]></title>
+      <description><![CDATA[Songs:
+
+Voutia apo psila - Endeleheia
+Terma to dialeima - Magic De Spell
+Mou to xa pei - Tsopana Rave
+Neoellinas - Jimmys Panousis
+Meres Argias - Diafana Krina
+Paraxeni Poli - Tripes
+To Vivlio Twn Irwwn - Pavlos Sidiropoulos
+Skoni Petres Laspi - Dimitris Poulikakos
+Liono - Xatzifragketa
+Synagermos - Panx Romana
+Vradini Volta - Bazooka
+Lew na meinw edw - Xat Trik
+Nostalgos tou Rock n Roll - Giannis Giokarinis
+Gia to kalo mou - Giannis Miliokas
+Asimenia Sfika - Upogeia Reumata
+Pare me mazi sou - Xilina Spathia
+Niotho entona - Mple
+TI kosmos einai autos - Montaz
+Mi m aggizeis - Kitrina Podilata
+O xamenos ta pairnei ola - Giannis Aggelakas
+Kainouria zali - Tripes
+
+Spotify playlist - https://open.spotify.com/playlist/51vegJHlvJSeYxfyzgWNCL?si=138a4597bdb44f99]]></description>
+      <pubDate>Thu, 24 Feb 2022 20:16:35 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e12/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/8/8/0/b3b9-f5ea-4151-adf4-095c2bd83f4a.m4a?sig=Gr7PHQUDsfZ_b4wsfmWXdQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/5/0/e/e154-29bb-4d06-b43b-32a2b043906c" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/5/0/e/e154-29bb-4d06-b43b-32a2b043906c"/>
+      <itunes:duration>01:59:58</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Voutia apo psila - Endeleheia
+Terma to dialeima - Magic De Spell
+Mou to xa pei - Tsopana Rave
+Neoellinas - Jimmys Panousis
+Meres Argias - Diafana Krina
+Paraxeni Poli - Tripes
+To Vivlio Twn Irwwn - Pavlos Sidiropoulos
+Skoni Petres Laspi - Dimitris Poulikakos
+Liono - Xatzifragketa
+Synagermos - Panx Romana
+Vradini Volta - Bazooka
+Lew na meinw edw - Xat Trik
+Nostalgos tou Rock n Roll - Giannis Giokarinis
+Gia to kalo mou - Giannis Miliokas
+Asimenia Sfika - Upogeia Reumata
+Pare me mazi sou - Xilina Spathia
+Niotho entona - Mple
+TI kosmos einai autos - Montaz
+Mi m aggizeis - Kitrina Podilata
+O xamenos ta pairnei ola - Giannis Aggelakas
+Kainouria zali - Tripes
+
+Spotify playlist - https://open.spotify.com/playlist/51vegJHlvJSeYxfyzgWNCL?si=138a4597bdb44f99]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e11</guid>
+      <title><![CDATA[Tourlou - s01e11]]></title>
+      <description><![CDATA[Songs:
+
+Looking for the rain - Unkle & Mark Lanegan
+Rabbit In Your Highlights - Unkle & Thome Yorke
+Just - Radiohead
+This Mess We're In - Thome Yorke & PJ Harvey
+Roads - Portishead
+Hell Is Around The Corner - Tricky
+In This Shirt - The Irrepressibles
+Angel - Massive Attack
+The Vampyre Of Time And Memory - QOTSA
+Am I Going Up? - All Them Witches
+Mantra - Dave Grohl, Josh Homme,  Trent Reznor
+Oh Girl - Eagles Of Death Metal
+Eternal Life - Jeff Buckley
+Around The World - Red Hot Chilli Peppers
+Mexicola - QOTSA
+To Take The First Turn - Black Peaks
+In This Town of Such Weather - Arcane Roots
+A Hunger In Your Haunt - Biffy Clyro
+Nowhere Generation - Rise Against
+
+Spotify playlist - https://open.spotify.com/playlist/4NkzyfC4uY8y7jJDzN4mHa?si=6fd624edb6f34029]]></description>
+      <pubDate>Thu, 24 Feb 2022 20:06:38 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e11/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/7/8/7/85aa-1473-45fa-916f-d97710e45e26.m4a?sig=t_mdW-z8SfGVFxgN7NYCGw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/2/2/1/f15b-1309-40a6-b2c4-fd4ac98dce06" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/2/2/1/f15b-1309-40a6-b2c4-fd4ac98dce06"/>
+      <itunes:duration>02:00:14</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Looking for the rain - Unkle & Mark Lanegan
+Rabbit In Your Highlights - Unkle & Thome Yorke
+Just - Radiohead
+This Mess We're In - Thome Yorke & PJ Harvey
+Roads - Portishead
+Hell Is Around The Corner - Tricky
+In This Shirt - The Irrepressibles
+Angel - Massive Attack
+The Vampyre Of Time And Memory - QOTSA
+Am I Going Up? - All Them Witches
+Mantra - Dave Grohl, Josh Homme,  Trent Reznor
+Oh Girl - Eagles Of Death Metal
+Eternal Life - Jeff Buckley
+Around The World - Red Hot Chilli Peppers
+Mexicola - QOTSA
+To Take The First Turn - Black Peaks
+In This Town of Such Weather - Arcane Roots
+A Hunger In Your Haunt - Biffy Clyro
+Nowhere Generation - Rise Against
+
+Spotify playlist - https://open.spotify.com/playlist/4NkzyfC4uY8y7jJDzN4mHa?si=6fd624edb6f34029]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e10</guid>
+      <title><![CDATA[Tourlou - s01e10]]></title>
+      <description><![CDATA[Songs:
+
+Kingdom Of Loss - Pain Of Salvation
+Illusion - Soen
+Springfield - Anathema
+Eternal Rain - Haken
+New Day - Karnivool
+The Death Of Death - Playgrounded
+These Black Claws - VOLA
+Dark Water - Agent Fresco
+The Great Rain Beatle - Rishloo
+Won't Stand Down - Muse
+Throne - Bring Me The Horizon
+Out Of The Black - Royal Blood
+Parabol - TOOL
+Parabola - TOOL
+Miracle - Skyharbor
+Running Low - Leprous
+Song Of I - Steven Wilson & Sophie Hunger
+
+Spotify playlist: https://open.spotify.com/playlist/5gXtVDOAJC2nM6j9OjsFEd?si=da0ae2b07c484d10]]></description>
+      <pubDate>Thu, 24 Feb 2022 19:58:27 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e10/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/7/0/a/d/0de1-75fb-42d1-baea-4fb093430c9f.m4a?sig=tIO5drNZn_Gnvp6uai2j1A"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/d/5/4/831d-2485-4883-bcb3-1229d7a6ef8c" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/d/5/4/831d-2485-4883-bcb3-1229d7a6ef8c"/>
+      <itunes:duration>02:00:26</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Kingdom Of Loss - Pain Of Salvation
+Illusion - Soen
+Springfield - Anathema
+Eternal Rain - Haken
+New Day - Karnivool
+The Death Of Death - Playgrounded
+These Black Claws - VOLA
+Dark Water - Agent Fresco
+The Great Rain Beatle - Rishloo
+Won't Stand Down - Muse
+Throne - Bring Me The Horizon
+Out Of The Black - Royal Blood
+Parabol - TOOL
+Parabola - TOOL
+Miracle - Skyharbor
+Running Low - Leprous
+Song Of I - Steven Wilson & Sophie Hunger
+
+Spotify playlist: https://open.spotify.com/playlist/5gXtVDOAJC2nM6j9OjsFEd?si=da0ae2b07c484d10]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e09</guid>
+      <title><![CDATA[Tourlou - s01e09]]></title>
+      <description><![CDATA[Songs:
+
+Orion - King Buffalo
+Graveyard Sun - Green Lung
+Sightwaster - Somali Yacht Club
+We Align - we.own.the.sky
+Downer - Naxatras
+Strelka - Toundra
+Bright Dawn Of The Soul - The Egocentrics
+Tired Old Dog - The Devil and The Almighty Blues
+Broke Down - Radio Moscow
+Automatic Fantastic - Brant Bjork
+Marina - Sleepy Sun
+I'll Cut You Down - Uncle Acid & The Deadbeats
+Ain't Fit To Live Here - Graveyard
+Juggernaut - Frank Karter & The Rattlesnakes
+Hell & High Water - Arcane Roots
+When God Comes Back - All Them Witches
+Unknown male 01 - Biffy Clyro
+
+Spotify playlist : https://open.spotify.com/playlist/6XSBeZpNw7VGBdoTlMNLkf?si=2ea24d1a4a7642d7]]></description>
+      <pubDate>Thu, 24 Feb 2022 19:51:35 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e09/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/5/3/f/01ce-f28f-42d3-82d6-499c0fbe62f4.m4a?sig=mud8G6uGmVKwgi6xCud59w"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/6/2/9/0134-64cd-49af-a568-6e4dc323d9ad" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/6/2/9/0134-64cd-49af-a568-6e4dc323d9ad"/>
+      <itunes:duration>02:01:09</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Orion - King Buffalo
+Graveyard Sun - Green Lung
+Sightwaster - Somali Yacht Club
+We Align - we.own.the.sky
+Downer - Naxatras
+Strelka - Toundra
+Bright Dawn Of The Soul - The Egocentrics
+Tired Old Dog - The Devil and The Almighty Blues
+Broke Down - Radio Moscow
+Automatic Fantastic - Brant Bjork
+Marina - Sleepy Sun
+I'll Cut You Down - Uncle Acid & The Deadbeats
+Ain't Fit To Live Here - Graveyard
+Juggernaut - Frank Karter & The Rattlesnakes
+Hell & High Water - Arcane Roots
+When God Comes Back - All Them Witches
+Unknown male 01 - Biffy Clyro
+
+Spotify playlist : https://open.spotify.com/playlist/6XSBeZpNw7VGBdoTlMNLkf?si=2ea24d1a4a7642d7]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e08</guid>
+      <title><![CDATA[Tourlou - s01e08]]></title>
+      <description><![CDATA[Songs:
+
+Take me out - Franz Ferdinard
+I bet you look good on the dancefloor - Arctic Monkeys
+Steady as she goes - The Raconteurs
+I predict a riot - Kaiser Chiefs
+Who's gonna love me now - Cold War Kids
+A Hero's Death - Fontaines D.C.
+Knights Of Cydonia - Muse
+No One Knows - QOTSA
+Wild Child - The Struts
+My Hero - Foo Fighters
+Lithium - Nirvana
+Joker And The Thief - Wolfmother
+Simple man - Lynyrd Skynyrd
+Fortunate Son - Creedence Clearwater Revival
+Song 2 - Blur
+Tubthumping - Chumbawamba
+Rides on the storm - Snoop Dog & The Doors
+Ooh la la -Run The Jewels
+Feel Good INC - Gorillaz
+Gay Bar - Electric Six
+Are you gonna be my girl - Jet
+Basket Case - Green Day
+Feel Good Hit Of The Summer - QOTSA
+
+Spotify Playlist - https://open.spotify.com/playlist/7k0TGQBxFKy7teLode9Td4?si=36fa47cb57014137]]></description>
+      <pubDate>Thu, 24 Feb 2022 19:45:17 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e08/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/1/0/c/894c-c7fe-4a6e-8e35-0fb3eadf30a9.m4a?sig=NXH2zsSd0r3OQ3cYHLyLlQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/9/2/3/f873-6c0e-41af-9fa0-e64d9a84eb64" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/9/2/3/f873-6c0e-41af-9fa0-e64d9a84eb64"/>
+      <itunes:duration>01:59:40</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Take me out - Franz Ferdinard
+I bet you look good on the dancefloor - Arctic Monkeys
+Steady as she goes - The Raconteurs
+I predict a riot - Kaiser Chiefs
+Who's gonna love me now - Cold War Kids
+A Hero's Death - Fontaines D.C.
+Knights Of Cydonia - Muse
+No One Knows - QOTSA
+Wild Child - The Struts
+My Hero - Foo Fighters
+Lithium - Nirvana
+Joker And The Thief - Wolfmother
+Simple man - Lynyrd Skynyrd
+Fortunate Son - Creedence Clearwater Revival
+Song 2 - Blur
+Tubthumping - Chumbawamba
+Rides on the storm - Snoop Dog & The Doors
+Ooh la la -Run The Jewels
+Feel Good INC - Gorillaz
+Gay Bar - Electric Six
+Are you gonna be my girl - Jet
+Basket Case - Green Day
+Feel Good Hit Of The Summer - QOTSA
+
+Spotify Playlist - https://open.spotify.com/playlist/7k0TGQBxFKy7teLode9Td4?si=36fa47cb57014137]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e07</guid>
+      <title><![CDATA[Tourlou - s01e07]]></title>
+      <description><![CDATA[Songs:
+
+Running low - Leprous
+Harridan - Porcupine Tree
+BLACKOUT - Turnstile
+Off with his head - Frank Carter & the Rattlesnakes
+Unknown male 01 - Biffy Clyro
+Making a fire - Foo Fighters
+Lovely lovely lovely - Heavy Feather
+The warning pt1&2 - Motorpsycho
+Leaders of the Blind - Green Lung
+Teardrinker - Mastodon
+Fortitude - Gojira
+The Chant - Gojira
+Wait a minute girl - Volbeat
+Dead Butterflies - Architects
+Limbo - Royal Blood
+Let's get the party started - Bring me the horizon & Tom Morello
+Ocean deep - Greenleaf
+Tides - Greenleaf 
+The Beachland Ballroom - IDLES
+
+Spotify playlist: https://open.spotify.com/playlist/5BC7UDyOBEbBhzyw77LmcF?si=fbb577fd5a104c0c
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Thu, 24 Feb 2022 19:38:01 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e07/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/f/b/a/107a-bffb-433a-91e8-31a37c4461d2.m4a?sig=mnTigJ2vfIz7UNRncPYGuA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/a/8/6/190f-b61d-4592-a570-3e90cc2417e7" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/a/8/6/190f-b61d-4592-a570-3e90cc2417e7"/>
+      <itunes:duration>01:58:35</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Running low - Leprous
+Harridan - Porcupine Tree
+BLACKOUT - Turnstile
+Off with his head - Frank Carter & the Rattlesnakes
+Unknown male 01 - Biffy Clyro
+Making a fire - Foo Fighters
+Lovely lovely lovely - Heavy Feather
+The warning pt1&2 - Motorpsycho
+Leaders of the Blind - Green Lung
+Teardrinker - Mastodon
+Fortitude - Gojira
+The Chant - Gojira
+Wait a minute girl - Volbeat
+Dead Butterflies - Architects
+Limbo - Royal Blood
+Let's get the party started - Bring me the horizon & Tom Morello
+Ocean deep - Greenleaf
+Tides - Greenleaf 
+The Beachland Ballroom - IDLES
+
+Spotify playlist: https://open.spotify.com/playlist/5BC7UDyOBEbBhzyw77LmcF?si=fbb577fd5a104c0c
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e06</guid>
+      <title><![CDATA[Tourlou - s01e06]]></title>
+      <description><![CDATA[Songs:
+
+The path - Haken
+Atlas Stone - Haken
+VI.Solitary shell - Dream Theater
+Another perfect day - Fater Warning
+Change - Karnivool
+Forty six & 2 - TOOL
+Carbon-based anatomy - Cynic
+Flight -Dream the electric sleep
+Time flies - Porcupine Tree
+The brain dance - Animals as leaders
+Of mind (Nocturne) - Tesseract
+So Long, And thanks for all the fish - A perfect circle
+Somewhere i belong - Linkin park
+Boiler - Limp Bizkit
+
+Spotify playlist : https://open.spotify.com/playlist/0wfCf0lm3WQfYzQK3Bu4yW?si=a5ebe3210861429a
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Thu, 24 Feb 2022 19:29:34 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e06/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/c/e/e/d1a3-9cc5-470f-96e3-37e5bba9cbad.m4a?sig=gYY1HNDk6WpukQOevlBz9A"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/b/f/7/45b4-ee2c-4776-88f0-cf16cddea709" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/b/f/7/45b4-ee2c-4776-88f0-cf16cddea709"/>
+      <itunes:duration>02:02:19</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+The path - Haken
+Atlas Stone - Haken
+VI.Solitary shell - Dream Theater
+Another perfect day - Fater Warning
+Change - Karnivool
+Forty six & 2 - TOOL
+Carbon-based anatomy - Cynic
+Flight -Dream the electric sleep
+Time flies - Porcupine Tree
+The brain dance - Animals as leaders
+Of mind (Nocturne) - Tesseract
+So Long, And thanks for all the fish - A perfect circle
+Somewhere i belong - Linkin park
+Boiler - Limp Bizkit
+
+Spotify playlist : https://open.spotify.com/playlist/0wfCf0lm3WQfYzQK3Bu4yW?si=a5ebe3210861429a
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e05</guid>
+      <title><![CDATA[Tourlou - s01e05]]></title>
+      <description><![CDATA[Songs:
+
+Come together - Beatles
+Peaches En Regalia - Frank Zappa
+Cat Food - In The Wake Of Poseidon
+AEnema - TOOL
+The sound of Muzak - Porcupine Tree
+Demons - The pineapple thief
+Iter impius - Pain Of Salvation
+Roquefort - Karnivool
+The Amateur Arsonist's Handbook - Thank You Scientist
+Feathergun in the Garden of the Sun - Rishloo
+The Price - Leprous
+Rome - Mother of Millions
+Rotterdam - Playgrounded
+Blood - OSI
+Lotus - Soen
+
+Spotify playlist : https://open.spotify.com/playlist/2WFibwnmh3WTo3Y9DTtXYJ?si=1e85dc38fddf4393
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Fri, 03 Dec 2021 13:46:06 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e05/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/c/8/f/d/8d11-a658-44d5-9f78-be2e86929a78.m4a?sig=b6yWJsrU9-OlaS06iyWXPA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/7/0/9b9f-3286-4350-9ea4-5dc1ef66b723" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/7/0/9b9f-3286-4350-9ea4-5dc1ef66b723"/>
+      <itunes:duration>02:02:14</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Come together - Beatles
+Peaches En Regalia - Frank Zappa
+Cat Food - In The Wake Of Poseidon
+AEnema - TOOL
+The sound of Muzak - Porcupine Tree
+Demons - The pineapple thief
+Iter impius - Pain Of Salvation
+Roquefort - Karnivool
+The Amateur Arsonist's Handbook - Thank You Scientist
+Feathergun in the Garden of the Sun - Rishloo
+The Price - Leprous
+Rome - Mother of Millions
+Rotterdam - Playgrounded
+Blood - OSI
+Lotus - Soen
+
+Spotify playlist : https://open.spotify.com/playlist/2WFibwnmh3WTo3Y9DTtXYJ?si=1e85dc38fddf4393
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e04</guid>
+      <title><![CDATA[Tourlou - s01e04]]></title>
+      <description><![CDATA[Songs:
+
+Prehistoric Dog -Red Fang
+Red river - Lowrider
+Blood and Thunder - Mastodon
+Ummon - Slift
+Mjod - Kvelertak
+Stone the crow - DOWN
+Believe in nothing - Dead heart in a dead world
+Bleak - Opeth
+Fortitude - Gojira
+The Chant - Gojira
+Backlit - ISIS
+Youngblood - Russian Circles
+I’ll share a life - The Endless Shimmering
+
+Spotify playlist: https://open.spotify.com/playlist/4qPaDQrhat7yiQ1MDtQnS5?si=df7c650e54f842ba
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Tue, 30 Nov 2021 14:44:05 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e04/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/6/8/0/a2e4-8a72-47f5-b576-893fe6c29ffe.m4a?sig=XCUxepum2bgFoR2Mv3BIlw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/b/5/4/4c46-c1cb-4a70-8332-611d5e00b83f" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/b/5/4/4c46-c1cb-4a70-8332-611d5e00b83f"/>
+      <itunes:duration>02:00:15</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Prehistoric Dog -Red Fang
+Red river - Lowrider
+Blood and Thunder - Mastodon
+Ummon - Slift
+Mjod - Kvelertak
+Stone the crow - DOWN
+Believe in nothing - Dead heart in a dead world
+Bleak - Opeth
+Fortitude - Gojira
+The Chant - Gojira
+Backlit - ISIS
+Youngblood - Russian Circles
+I’ll share a life - The Endless Shimmering
+
+Spotify playlist: https://open.spotify.com/playlist/4qPaDQrhat7yiQ1MDtQnS5?si=df7c650e54f842ba
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e03</guid>
+      <title><![CDATA[Tourlou - s01e03]]></title>
+      <description><![CDATA[Songs: 
+
+Brain of J. - Pearl Jam
+Outshined - Soundgarden
+Learn to fly - Foo fighters
+Epic - Faith no more
+Bullet with butterfly wings - The Smashing Pumpkins
+When I’m gone - Dirty Honey
+Preaching - The Answer
+Hang me up to dry - Cold War Kids
+Samaritan - IDLES
+Take me Away - Ayron Jones
+StillBorn - Black Label Society
+Animate - Allegaeon
+White knuckles - Alter Bridge
+Black box - Puta Volcano
+Vradini Vardia - Bazooka
+Είμαστε Ακατάλληλοι - Fundracar
+
+Spotify playlist: https://open.spotify.com/playlist/5ZNc1wc3hNKChyGIrnOGfC?si=3ac4d45125c24803
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Thu, 25 Nov 2021 11:21:22 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e03/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/4/c/d/0/4c9e-1d07-4c6c-b0b9-891d1c59ed3b.m4a?sig=0liTH-GgILeVExOueN7RQg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/b/e/133e-e747-493f-af8b-9e608c233624" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/b/e/133e-e747-493f-af8b-9e608c233624"/>
+      <itunes:duration>02:04:10</itunes:duration>
+      <itunes:summary><![CDATA[Songs: 
+
+Brain of J. - Pearl Jam
+Outshined - Soundgarden
+Learn to fly - Foo fighters
+Epic - Faith no more
+Bullet with butterfly wings - The Smashing Pumpkins
+When I’m gone - Dirty Honey
+Preaching - The Answer
+Hang me up to dry - Cold War Kids
+Samaritan - IDLES
+Take me Away - Ayron Jones
+StillBorn - Black Label Society
+Animate - Allegaeon
+White knuckles - Alter Bridge
+Black box - Puta Volcano
+Vradini Vardia - Bazooka
+Είμαστε Ακατάλληλοι - Fundracar
+
+Spotify playlist: https://open.spotify.com/playlist/5ZNc1wc3hNKChyGIrnOGfC?si=3ac4d45125c24803
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">Tourlou_tourlou-s01e02</guid>
+      <title><![CDATA[Tourlou - s01e02]]></title>
+      <description><![CDATA[Songs:
+
+Ball and Biscuit - The white stripes
+Thickfreakness - The black keys
+Marina - Sleepy Sun
+Sixty-Eight - Slow Season
+Remember the taker - The steep water band
+You was born to die - Adia Victoria
+Let’s have some fun - Samantha fish
+Song of the Siren - The bridge city sinners
+Voodoo woman - Koko Taylor
+Riding with the King - B.B.King, Eric Clapton
+Pride and joy - Stevie Ray Vaughan
+I want my crown - Eric Gales
+Been here before - Christone “Kingfish” Ingram
+Roll the bones - Shakey Graves
+Bring me my shotgun - Lightnin Hopkins
+I ain’t superstitious - Howlin Wolf
+Moonshine got me - Daniel Norgren
+Marriage of Coyote Woman > Elk blood heart - All them witches
+
+Spotify playlist : https://open.spotify.com/playlist/5ZNc1wc3hNKChyGIrnOGfC?si=f3cba082799b457b
+
+https://radio.kickit.gr/]]></description>
+      <pubDate>Thu, 25 Nov 2021 11:12:09 +0000</pubDate>
+      <dc:creator>Tourlou</dc:creator>
+      <link>https://www.mixcloud.com/Tourlou/tourlou-s01e02/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/1/b/4/5/c2fc-4b7c-4534-a1f3-e52261d21b20.m4a?sig=4PYsgeQJyi5bN_7BKu-WVg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/e/b/9/8216-f10e-4a56-8afa-dd258e3e181e" medium="image"/>
+      <itunes:author>Tourlou</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/e/b/9/8216-f10e-4a56-8afa-dd258e3e181e"/>
+      <itunes:duration>02:02:13</itunes:duration>
+      <itunes:summary><![CDATA[Songs:
+
+Ball and Biscuit - The white stripes
+Thickfreakness - The black keys
+Marina - Sleepy Sun
+Sixty-Eight - Slow Season
+Remember the taker - The steep water band
+You was born to die - Adia Victoria
+Let’s have some fun - Samantha fish
+Song of the Siren - The bridge city sinners
+Voodoo woman - Koko Taylor
+Riding with the King - B.B.King, Eric Clapton
+Pride and joy - Stevie Ray Vaughan
+I want my crown - Eric Gales
+Been here before - Christone “Kingfish” Ingram
+Roll the bones - Shakey Graves
+Bring me my shotgun - Lightnin Hopkins
+I ain’t superstitious - Howlin Wolf
+Moonshine got me - Daniel Norgren
+Marriage of Coyote Woman > Elk blood heart - All them witches
+
+Spotify playlist : https://open.spotify.com/playlist/5ZNc1wc3hNKChyGIrnOGfC?si=f3cba082799b457b
+
+https://radio.kickit.gr/]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e14-kickitgr-valentines-day</guid>
+      <title><![CDATA[Related, Radio Show - s03e14 @kickit.gr (valentine's day!)]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/6egTO0BeAx2SBc9hJh2Fsa?si=cad8e9ee91cb41c3
+
+Serge Gainsbourg, Jane Birkin - Je t' aime moi non plus
+The Beatles - Strawberry Fields Forever
+Mother's Cake - Love Your Smell
+Liam Gallagher - Once
+The White Stripes - Jolene (live)
+Pixies - Hey
+Led Zeppelin - Baby I'm Gonna Leave You
+Love - Alone Again Or
+Portishead - Roads
+Death In Vegas - Girls
+Audioslave - I Am The Highway
+Queens of The Stone Age - Auto Pilot
+The Smashing Pumkins - The Celestials
+Radiohead - Exit Music (for a film)
+IDLES - A Hymn
+Ben l'Oncle Soul feat the Monophonics - Why can't i let go
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 14 Feb 2022 20:10:50 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e14-kickitgr-valentines-day/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/d/0/6/29dc-0ed1-453d-ac55-53e7c9b94757.m4a?sig=wlv6xAd-gAvCZ7iyFS1C6g"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/a/9/7/dfa1-731f-4eda-8a6e-57a208c94fdc" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/a/9/7/dfa1-731f-4eda-8a6e-57a208c94fdc"/>
+      <itunes:duration>02:02:38</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/6egTO0BeAx2SBc9hJh2Fsa?si=cad8e9ee91cb41c3
+
+Serge Gainsbourg, Jane Birkin - Je t' aime moi non plus
+The Beatles - Strawberry Fields Forever
+Mother's Cake - Love Your Smell
+Liam Gallagher - Once
+The White Stripes - Jolene (live)
+Pixies - Hey
+Led Zeppelin - Baby I'm Gonna Leave You
+Love - Alone Again Or
+Portishead - Roads
+Death In Vegas - Girls
+Audioslave - I Am The Highway
+Queens of The Stone Age - Auto Pilot
+The Smashing Pumkins - The Celestials
+Radiohead - Exit Music (for a film)
+IDLES - A Hymn
+Ben l'Oncle Soul feat the Monophonics - Why can't i let go
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e13-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e13 @kickit.gr]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/3D4xXcgPGaMnXGiZUU3YHs?si=537aedbf43ab4e6d
+
+Kaiser Chiefs - The Angry Mob
+Bloc Party - Traps
+Pavement - Be The Hook
+Fontaines DC - Jackie Down the Line
+Parquet Courts - Watching Strangers Smile
+Nick Cave & The Bad Seeds - Bright Horses
+Jack White - Love Is Selfish
+40 Watt Sun - Until
+Madrugada - Nobody Loves You Like I Do
+Red Hot Chili Peppers - Black Summer
+Black Country, New Road - Chaos Space Marine
+Ben L' Oncle Soul - Stay
+Los Bitchos - The Link Is About To Die
+Beware of Darkness - All Who Remain
+Ty Segall - Story Of The Century
+The Clash - Bankrobber
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 07 Feb 2022 20:11:01 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e13-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/4/c/d/c/4a81-e1dc-4ba6-b449-90237d0e82fc.m4a?sig=3dgwiamFNXO0qKI9Ve6DbA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/b/2/4/ff59-647b-466d-a73c-44b34c93b56f" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/b/2/4/ff59-647b-466d-a73c-44b34c93b56f"/>
+      <itunes:duration>01:59:13</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/3D4xXcgPGaMnXGiZUU3YHs?si=537aedbf43ab4e6d
+
+Kaiser Chiefs - The Angry Mob
+Bloc Party - Traps
+Pavement - Be The Hook
+Fontaines DC - Jackie Down the Line
+Parquet Courts - Watching Strangers Smile
+Nick Cave & The Bad Seeds - Bright Horses
+Jack White - Love Is Selfish
+40 Watt Sun - Until
+Madrugada - Nobody Loves You Like I Do
+Red Hot Chili Peppers - Black Summer
+Black Country, New Road - Chaos Space Marine
+Ben L' Oncle Soul - Stay
+Los Bitchos - The Link Is About To Die
+Beware of Darkness - All Who Remain
+Ty Segall - Story Of The Century
+The Clash - Bankrobber
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -305,12 +2234,83 @@ Saturday Morning Fever presented by Fanis Afanis any second Saturday of the mont
       <pubDate>Wed, 09 Feb 2022 17:16:21 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/kickitmix-by-santoner/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/c/c/5/a/0523-dfe6-4a13-a92a-afc2db613bc9.m4a?sig=L-AyVEb_OoDqqvXnpy_8GQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/c/c/5/a/0523-dfe6-4a13-a92a-afc2db613bc9.m4a?sig=L-AyVEb_OoDqqvXnpy_8GQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/c/8/0/d2c3-baa8-4993-9a57-38f312ceb000" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/c/8/0/d2c3-baa8-4993-9a57-38f312ceb000"/>
       <itunes:duration>00:46:30</itunes:duration>
       <itunes:summary><![CDATA[A beautiful and colorful mix by DJ Santoner for the listeners of radio.kickit.gr.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s03e12-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s03e12 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/5OGEbhZi4hMlLET7VGLd6m?si=65a5e83662f84b22
+
+Frank Zappa - Don't Eat The Yellow Snow
+Warmduscher - Fatso
+Ty Segall - Time
+Acid Dad - BBQ
+The Lovely Eggs & Iggy Pop - I, Moron
+Death In Vegas - Aisha
+Wolfmother - Humble
+The Hellacopters - Reap a Hurricane
+Stone Axe - Lady Switchblade
+Naxatras - Omega Madness
+Tom Morello feat. Nathaniel Rateliff - Hard Times
+Prodigy & Tom Morello - One Man Army
+Cloud Nothings - Stay Useless
+Fake News - The Road
+Amyl and The Sniffers - Hertz
+Avril Lavigne - Bite Me
+Fangst - Fine Ting Tar Slutt
+Bloc Party - Hunting for Witches
+The White Stripes - Icky Thump
+Butthole Surfers - Pepper
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 24 Jan 2022 20:12:02 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s03e12-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/0/2/9/2/562e-a51a-4f5c-8f09-89d68a13b7e0.m4a?sig=I7vQGrfvPpZtrdIwnplxYA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/f/7/3/6df8-7c40-4b12-840b-8e7af0749373" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/f/7/3/6df8-7c40-4b12-840b-8e7af0749373"/>
+      <itunes:duration>02:02:32</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/5OGEbhZi4hMlLET7VGLd6m?si=65a5e83662f84b22
+
+Frank Zappa - Don't Eat The Yellow Snow
+Warmduscher - Fatso
+Ty Segall - Time
+Acid Dad - BBQ
+The Lovely Eggs & Iggy Pop - I, Moron
+Death In Vegas - Aisha
+Wolfmother - Humble
+The Hellacopters - Reap a Hurricane
+Stone Axe - Lady Switchblade
+Naxatras - Omega Madness
+Tom Morello feat. Nathaniel Rateliff - Hard Times
+Prodigy & Tom Morello - One Man Army
+Cloud Nothings - Stay Useless
+Fake News - The Road
+Amyl and The Sniffers - Hertz
+Avril Lavigne - Bite Me
+Fangst - Fine Ting Tar Slutt
+Bloc Party - Hunting for Witches
+The White Stripes - Icky Thump
+Butthole Surfers - Pepper
+
+https://www.mixcloud.com/panospet/
+https://www.facebook.com/kickitgr/
+https://www.facebook.com/relatedRadioShow/
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -324,7 +2324,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
       <pubDate>Mon, 17 Jan 2022 17:07:46 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/d/6/d/a/f198-6a39-49cb-98eb-462cd447da0a.m4a?sig=0R5oXv9uFGLcNWZlQpLQmg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/6/d/a/f198-6a39-49cb-98eb-462cd447da0a.m4a?sig=0R5oXv9uFGLcNWZlQpLQmg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/2/1/d/2ccc-3598-4f47-9566-99f383ecb5a5" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/2/1/d/2ccc-3598-4f47-9566-99f383ecb5a5"/>
@@ -345,7 +2345,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
       <pubDate>Mon, 17 Jan 2022 16:58:59 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/2/c/5/8/546e-9374-4502-afb5-254b54f6d777.m4a?sig=d54hp_tRl4dTRrdy8lZbzg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/2/c/5/8/546e-9374-4502-afb5-254b54f6d777.m4a?sig=d54hp_tRl4dTRrdy8lZbzg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/c/b/2/08fe-714a-4ad5-9b60-c048919b1602" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/c/b/2/08fe-714a-4ad5-9b60-c048919b1602"/>
@@ -366,7 +2366,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
       <pubDate>Mon, 17 Jan 2022 16:49:21 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-wt-austinmod-s03e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/8/9/c/3/13f4-9b31-448c-ae30-0b1d38e4d0c2.m4a?sig=251_7Qk-BcJIbBfs4EjwNg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/9/c/3/13f4-9b31-448c-ae30-0b1d38e4d0c2.m4a?sig=251_7Qk-BcJIbBfs4EjwNg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/1/4/8/5b40-76d3-4a79-8a32-1945139a24e9" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/1/4/8/5b40-76d3-4a79-8a32-1945139a24e9"/>
@@ -385,7 +2385,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.
       <pubDate>Mon, 17 Jan 2022 15:51:50 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/backblack-wt-austinmod-s03e08/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/4/2/6/8/2ae9-818a-4be0-ba2a-b0f43b35ebf0.m4a?sig=u2Q-9e-LgR0U7kcWhIHMyA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/4/2/6/8/2ae9-818a-4be0-ba2a-b0f43b35ebf0.m4a?sig=u2Q-9e-LgR0U7kcWhIHMyA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/3/7/3/9ee7-e346-4bed-8bc1-ec3694b424f5" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/3/7/3/9ee7-e346-4bed-8bc1-ec3694b424f5"/>
@@ -404,7 +2404,7 @@ ft. Jussip]]></description>
       <pubDate>Tue, 18 May 2021 14:54:22 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%82_%CF%81%CF%82-06-%CF%80%CF%84%CE%B9-%CE%BC%CF%80%CE%B5%CF%81%CE%BD%CF%84/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/0/c/6/b/605d-cce4-4171-8907-fb61c308ddaa.m4a?sig=ZZExo0mMVx-fYvd8E3Ugfw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/0/c/6/b/605d-cce4-4171-8907-fb61c308ddaa.m4a?sig=ZZExo0mMVx-fYvd8E3Ugfw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/e/2/7edb-5f2e-48bc-9960-a9892c9ae80c" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/e/e/2/7edb-5f2e-48bc-9960-a9892c9ae80c"/>
@@ -424,7 +2424,7 @@ COSMOSIS]]></description>
       <pubDate>Mon, 19 Apr 2021 10:42:30 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_rs-05-cosmosis/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/1/e/4/c/5ef0-6a9a-45f1-b8f9-460a3578f4ce.m4a?sig=0oos0p15cqhfo5A7VUfp8A"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/1/e/4/c/5ef0-6a9a-45f1-b8f9-460a3578f4ce.m4a?sig=0oos0p15cqhfo5A7VUfp8A"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/2/d/d/a41c-1a2d-41b8-86ea-47d6c3073259" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/2/d/d/a41c-1a2d-41b8-86ea-47d6c3073259"/>
@@ -443,7 +2443,7 @@ WORK-IT]]></description>
       <pubDate>Fri, 16 Apr 2021 13:35:22 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_rs-03-work-it/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/a/b/4/7/8259-94d0-4805-ac70-ca0093ad2859.m4a?sig=s7NAUYUMo-7R0uAzbVl38A"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/b/4/7/8259-94d0-4805-ac70-ca0093ad2859.m4a?sig=s7NAUYUMo-7R0uAzbVl38A"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/d/e/e/c751-0082-4451-ae9b-ab5562c65dd0" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/d/e/e/c751-0082-4451-ae9b-ab5562c65dd0"/>
@@ -463,7 +2463,7 @@ WORK-IT]]></itunes:summary>
       <pubDate>Fri, 16 Apr 2021 07:01:11 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/saturday-night-phunkin-wt-phat-cult-extra-chill-mix/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/c/a/e/e/d160-40ef-457d-a204-5c1b105ded79.m4a?sig=NbuYZM-F9YRQNBWAPabZqQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/c/a/e/e/d160-40ef-457d-a204-5c1b105ded79.m4a?sig=NbuYZM-F9YRQNBWAPabZqQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/9/d/5/d37c-4d93-4403-921d-44ebe2073431" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/9/d/5/d37c-4d93-4403-921d-44ebe2073431"/>
@@ -482,7 +2482,7 @@ WORK-IT]]></itunes:summary>
       <pubDate>Fri, 09 Apr 2021 10:40:29 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-wu-tang-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/1/e/c/2/4299-3fff-477e-9592-5e18179ac2b2.m4a?sig=zGMlv6-wqOWzn-7X0NZYFw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/1/e/c/2/4299-3fff-477e-9592-5e18179ac2b2.m4a?sig=zGMlv6-wqOWzn-7X0NZYFw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/7/d/0deb-2d7f-4cec-b036-bb7f24680afd" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/7/d/0deb-2d7f-4cec-b036-bb7f24680afd"/>
@@ -499,7 +2499,7 @@ WORK-IT]]></itunes:summary>
       <pubDate>Thu, 08 Apr 2021 11:42:47 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-sean-price-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/9/8/b/b/6e0c-7412-4e87-a216-24e9239b71e6.m4a?sig=LoB2I6BFQAucl-IBdY7PaQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/8/b/b/6e0c-7412-4e87-a216-24e9239b71e6.m4a?sig=LoB2I6BFQAucl-IBdY7PaQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/4/4/3/5871-5df0-4374-9192-c2cc8b4393b2" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/4/4/3/5871-5df0-4374-9192-c2cc8b4393b2"/>
@@ -516,7 +2516,7 @@ WORK-IT]]></itunes:summary>
       <pubDate>Wed, 07 Apr 2021 09:08:52 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-mf-doom-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/a/5/a/6/ec62-4b07-48a7-b025-dd36c0e0ce28.m4a?sig=52T93tBNszJK_XT_KO20eQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/5/a/6/ec62-4b07-48a7-b025-dd36c0e0ce28.m4a?sig=52T93tBNszJK_XT_KO20eQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/c/6/fc69-242c-4695-90b7-5d0e7e8b4708" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/c/6/fc69-242c-4695-90b7-5d0e7e8b4708"/>
@@ -533,7 +2533,7 @@ WORK-IT]]></itunes:summary>
       <pubDate>Tue, 06 Apr 2021 14:09:09 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/cloud-thursday-alchemist-tribute/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/2/d/c/e/f374-583f-43ca-ad6f-adda23b6af16.m4a?sig=U-09x42x-2RCJfigxJ6Phg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/2/d/c/e/f374-583f-43ca-ad6f-adda23b6af16.m4a?sig=U-09x42x-2RCJfigxJ6Phg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/e/1/2/4b90-5400-486c-b01e-24b1e5e56331" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/e/1/2/4b90-5400-486c-b01e-24b1e5e56331"/>
@@ -551,7 +2551,7 @@ PROVOS 21]]></description>
       <pubDate>Fri, 02 Apr 2021 11:36:50 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trilizes_-rs-04-provos-2021/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/9/0/9/c/5dba-a034-43f9-a1d5-cd51e5235ba4.m4a?sig=VdtkmmzI1r0WzeJTVV6fDg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/0/9/c/5dba-a034-43f9-a1d5-cd51e5235ba4.m4a?sig=VdtkmmzI1r0WzeJTVV6fDg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/4/8/5/a94f-6501-47c4-b11d-3a10f4930ad2" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/4/8/5/a94f-6501-47c4-b11d-3a10f4930ad2"/>
@@ -563,13 +2563,80 @@ PROVOS 21]]></itunes:summary>
     </item>
     
     <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e22-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e22 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/1rguX9lHFB6t1c3D4gxmqJ?si=XDxTUwGHQCqMPytmWqK0sg
+
+Sex Pistols - God Save The Queen
+Yard Act - Dark Days
+shame - Snow Day
+Fontaines D.C. - I Don't Belong
+The Offspring - Let The Bad Times Roll
+The Datsuns - Waking Up Slow
+Metz - Acid
+Melvins - Negative No No
+Greenleaf - Love Undone
+Jakethehawk - Ochre And Umber
+Lucifer - Pull Away / So Many Times
+SLIFT - Thousand Helmets of Gold
+Kadavar - The Green Manalishi
+The Underground Youth - Vergiss Mich Nicht
+Mogwai - Ceiling Granny
+IDLES - Peace Signs (Sharon Van Etten)
+King Gizzard & The Lizard Wizard - Pleura
+Teenage Wrist - Earth Is A Black Hole
+Empty Head - Hunted From Below
+Dream Wife - Sports!
+Kill My Coquette - The Metro
+Mad Season - River Of Deceit
+
+enjoy ;)]]></description>
+      <pubDate>Mon, 15 Mar 2021 22:23:34 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e22-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/e/5/5/d/1cb6-2a15-4cd1-ad7b-76575bab039e.m4a?sig=3sgIRBCTxfaa_xPf0rnV2w"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/9/1/6170-95af-4c02-8aa4-253b4db59470" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/0/9/1/6170-95af-4c02-8aa4-253b4db59470"/>
+      <itunes:duration>02:02:55</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/1rguX9lHFB6t1c3D4gxmqJ?si=XDxTUwGHQCqMPytmWqK0sg
+
+Sex Pistols - God Save The Queen
+Yard Act - Dark Days
+shame - Snow Day
+Fontaines D.C. - I Don't Belong
+The Offspring - Let The Bad Times Roll
+The Datsuns - Waking Up Slow
+Metz - Acid
+Melvins - Negative No No
+Greenleaf - Love Undone
+Jakethehawk - Ochre And Umber
+Lucifer - Pull Away / So Many Times
+SLIFT - Thousand Helmets of Gold
+Kadavar - The Green Manalishi
+The Underground Youth - Vergiss Mich Nicht
+Mogwai - Ceiling Granny
+IDLES - Peace Signs (Sharon Van Etten)
+King Gizzard & The Lizard Wizard - Pleura
+Teenage Wrist - Earth Is A Black Hole
+Empty Head - Hunted From Below
+Dream Wife - Sports!
+Kill My Coquette - The Metro
+Mad Season - River Of Deceit
+
+enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
       <guid isPermaLink="false">kickitathens_squeeze-the-fruit-s01e02</guid>
       <title><![CDATA[Squeeze The Fruit S01E02]]></title>
       <description><![CDATA[We choose the fruits, enjoy your juice! Episode 2!!]]></description>
       <pubDate>Fri, 12 Mar 2021 09:35:33 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/squeeze-the-fruit-s01e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/0/1/b/c/a7b3-dde4-4b04-ac69-e6bf35f2aa66.m4a?sig=BPflYIyDlcQwu9EWq8NmHQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/0/1/b/c/a7b3-dde4-4b04-ac69-e6bf35f2aa66.m4a?sig=BPflYIyDlcQwu9EWq8NmHQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/d/f/0/2a97-0236-41f2-90b7-0cbeb527af69" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/d/f/0/2a97-0236-41f2-90b7-0cbeb527af69"/>
@@ -587,7 +2654,7 @@ We choose the fruits, enjoy your juice!]]></description>
       <pubDate>Fri, 12 Mar 2021 09:13:39 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/squeeze-the-fruits-s01e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/8/2/5/6/55ac-2f33-4b60-9d2b-72c4c245e21d.m4a?sig=_dkRVZHA0Q4EEz-xv4Llow"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/2/5/6/55ac-2f33-4b60-9d2b-72c4c245e21d.m4a?sig=_dkRVZHA0Q4EEz-xv4Llow"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/5/9/c/34fb-52c3-4c48-a6c2-2b7053764273" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/5/9/c/34fb-52c3-4c48-a6c2-2b7053764273"/>
@@ -605,7 +2672,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Wed, 24 Feb 2021 10:38:28 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%83-s01e02-soulseek/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/9/b/1/7/c272-4a3b-4c47-b340-0df17d13b457.m4a?sig=2o0myhnjXWi-APTIpTaUjw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/b/1/7/c272-4a3b-4c47-b340-0df17d13b457.m4a?sig=2o0myhnjXWi-APTIpTaUjw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/f/f/4/210e-7bda-4323-a5b4-7b1c05f4a5b9" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/f/f/4/210e-7bda-4323-a5b4-7b1c05f4a5b9"/>
@@ -622,7 +2689,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Wed, 24 Feb 2021 10:27:55 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/%CF%84%CF%81%CE%B9%CE%BB%CE%B9%CE%B6%CE%B5%CF%83-s01e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/8/3/a/c/f5ab-857f-4325-a333-0b1936d977e9.m4a?sig=D08_ctZhz4TldiDLUO6ZtA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/3/a/c/f5ab-857f-4325-a333-0b1936d977e9.m4a?sig=D08_ctZhz4TldiDLUO6ZtA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/8/7/5/91bf-fd84-4920-b4bb-243b08eb7309" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/8/7/5/91bf-fd84-4920-b4bb-243b08eb7309"/>
@@ -639,7 +2706,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Tue, 23 Feb 2021 21:28:57 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trip-hazard-wt-lask-ep2-jazz-rap/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/a/1/2/b/c33f-9fa6-454f-ac3a-65769fac6618.m4a?sig=xEhSf161v7VZ5gH2hBIUFA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/1/2/b/c33f-9fa6-454f-ac3a-65769fac6618.m4a?sig=xEhSf161v7VZ5gH2hBIUFA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/5/4/2/6b36-89b1-4c10-8f66-1f74e2a50677" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/5/4/2/6b36-89b1-4c10-8f66-1f74e2a50677"/>
@@ -656,12 +2723,77 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Sat, 20 Feb 2021 10:58:30 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/the-phat-show-greek-tribute-13-02-2021/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/3/4/7/6/d126-3cdf-45ce-a1b7-6f72c644e0ac.m4a?sig=o_Qh7OUeMU4ov-gNszoCMQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/4/7/6/d126-3cdf-45ce-a1b7-6f72c644e0ac.m4a?sig=o_Qh7OUeMU4ov-gNszoCMQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/1/3/6/f6ee-bf4c-4f9a-8ca4-52f35eababbd" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/1/3/6/f6ee-bf4c-4f9a-8ca4-52f35eababbd"/>
       <itunes:duration>02:14:55</itunes:duration>
       <itunes:summary><![CDATA[Μετά από πολλά αναπάντεχα, και μιάμιση ώρα τεχνικών προβλημάτων, καταφέραμε να παρουσιάσουμε ένα ελληνικό αφιέρωμα με μουσικές που αγαπήσαμε. Njoy!]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e18-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e18 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/0tZq7y2WOUOv4KOrl9O1vZ?si=Rw3D2HpKRdqSs3leTrox4Q
+
+Screaming Trees - Alice Said
+Foo Fighters - Making A Fire
+Nick Waterhouse - Very Blue
+Motorama - Pole Star
+Post Lovers - Palmistry
+Black Country, New Road - Athens, France
+Phoebe Bridgers - I Know The End
+Greta Van Fleet - Heat Above
+Little Barrie - Tip It Over
+Thee Oh Sees - If I Had My Way
+Ocean Colour Scene - Hundred Mile High City
+The Raconteurs - Bored and Razed (live)
+The WRS - 3's For Lalala
+Kid Kapichi - Working Man's Town
+Psychedelic Porn Crumpets - Tally-Ho
+Radio Moscow - Broke Down
+Reignwolf - Are You Satisfied
+Greenleaf - Tides
+Lowrider - Ode to Ganymede
+Ruff Majik - Swine Tooth Grin
+Slomosa - There Is Nothing New Under The Sun
+
+enjoy ;)]]></description>
+      <pubDate>Tue, 16 Feb 2021 08:26:13 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e18-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/c/5/2/1ca7-6be2-4d12-9e94-aa3967041e24.m4a?sig=G4hh9Ql50RJfukpxpKdfDw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/7/d/5/8791-c5bb-43dd-98de-2693e7a53b70" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/7/d/5/8791-c5bb-43dd-98de-2693e7a53b70"/>
+      <itunes:duration>02:03:50</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/0tZq7y2WOUOv4KOrl9O1vZ?si=Rw3D2HpKRdqSs3leTrox4Q
+
+Screaming Trees - Alice Said
+Foo Fighters - Making A Fire
+Nick Waterhouse - Very Blue
+Motorama - Pole Star
+Post Lovers - Palmistry
+Black Country, New Road - Athens, France
+Phoebe Bridgers - I Know The End
+Greta Van Fleet - Heat Above
+Little Barrie - Tip It Over
+Thee Oh Sees - If I Had My Way
+Ocean Colour Scene - Hundred Mile High City
+The Raconteurs - Bored and Razed (live)
+The WRS - 3's For Lalala
+Kid Kapichi - Working Man's Town
+Psychedelic Porn Crumpets - Tally-Ho
+Radio Moscow - Broke Down
+Reignwolf - Are You Satisfied
+Greenleaf - Tides
+Lowrider - Ode to Ganymede
+Ruff Majik - Swine Tooth Grin
+Slomosa - There Is Nothing New Under The Sun
+
+enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -673,12 +2805,299 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Wed, 10 Feb 2021 21:25:02 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/trip-hazard-wt-lask-ep1/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/9/c/8/2/dc9d-887e-44c3-a0ee-0519a1e120e2.m4a?sig=XIzz_p0XCc92F1yVTYDpXA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/c/8/2/dc9d-887e-44c3-a0ee-0519a1e120e2.m4a?sig=XIzz_p0XCc92F1yVTYDpXA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/2/d/9/196d-5678-4745-a4b9-0fff1332a3e6" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/2/d/9/196d-5678-4745-a4b9-0fff1332a3e6"/>
       <itunes:duration>01:41:25</itunes:duration>
       <itunes:summary><![CDATA[This episode focuses on genres that are a mixture of jazz, electronic, and hip hop.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e17-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e17 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/2vfImjWnjdNPe6eB5n5Jgs?si=sx8a-gvqRK-csjKLEowAYA
+
+The Sound - Can't Escape Myself
+Wire - Cactused
+The Who - Is It In My Head?
+The Clash - I Fought The Law
+IDLES - A Hymn
+Shame - Alphabet
+Protomartyr - Processed By The Boys
+Killing Joke - Eighties
+Nirvana - Come As You Are
+Psychedelic Porn Crumpets - Mr. Prism
+SLIFT - Ummon
+Maserati - Monoliths
+Elder - Gemini
+Melvins - The Great Good Place
+Dunes - This Must Be The Plague
+Dead Poet Society - .loveyoulikethat.
+RHEA - Stuck In The Middle
+Royal Blood - Little Monster
+'68 - The Knife, The Knife, The Knife
+Kid Kapichi - First World Goblins
+SAKURAN ZENSEN - Rock'in Roll
+Hayley Williams - Teardrop
+
+enjoy ;)]]></description>
+      <pubDate>Mon, 08 Feb 2021 20:33:43 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e17-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/6/8/0/a06b-2c4d-4df8-adab-e8290684ec42.m4a?sig=eaDALbl46BfgyG80NJbr0A"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/b/9/d/5443-f279-4d70-b30c-cafaa1c2ba5e" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/b/9/d/5443-f279-4d70-b30c-cafaa1c2ba5e"/>
+      <itunes:duration>01:58:49</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/2vfImjWnjdNPe6eB5n5Jgs?si=sx8a-gvqRK-csjKLEowAYA
+
+The Sound - Can't Escape Myself
+Wire - Cactused
+The Who - Is It In My Head?
+The Clash - I Fought The Law
+IDLES - A Hymn
+Shame - Alphabet
+Protomartyr - Processed By The Boys
+Killing Joke - Eighties
+Nirvana - Come As You Are
+Psychedelic Porn Crumpets - Mr. Prism
+SLIFT - Ummon
+Maserati - Monoliths
+Elder - Gemini
+Melvins - The Great Good Place
+Dunes - This Must Be The Plague
+Dead Poet Society - .loveyoulikethat.
+RHEA - Stuck In The Middle
+Royal Blood - Little Monster
+'68 - The Knife, The Knife, The Knife
+Kid Kapichi - First World Goblins
+SAKURAN ZENSEN - Rock'in Roll
+Hayley Williams - Teardrop
+
+enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e14-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e14 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/2PtZ7RCrIITO1eC1V3mZQq?si=isLFxhhoRm2-cyW-R_peyg
+
+Queens of the Stone Age - The Sky Is Fallin'
+Honeybadger - Through Hell
+Deaf Radio - Aggravation
+Psychlona - Blast Off
+Nothing - April Ha Ha
+Viagra Boys - 6 Shooter
+Shame - Snow Day
+IDLES - Reigns
+Off With Their Heads - Stay With Me
+Dead Ghosts - Swiping Hubcaps
+C.O.F.F.I.N. - Fast Love
+Mini Skirt - With Your Hands
+White Stripes - Fell In Love With A Girl
+L.A. Witch - I Wanna Lose
+Psychedelic Porn Crumpets - Pukebox
+Black Operator - Mr. Preacherman
+Night Beats - Never Look Back (feat. Robert Levon Been)
+Local H - Demon Dreams
+Jane's Addiction - Just Because
+Helmet - Biscuits for Smut 
+Red Fang - Hank is Dead
+Led Zeppelin - Since I've Been Loving You
+
+Enjoy :)]]></description>
+      <pubDate>Mon, 18 Jan 2021 20:33:08 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e14-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/b/5/5/f4a7-2199-4a26-916b-303a1628e59a.m4a?sig=d3PXU52Yu_QDto6vTaNc4Q"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/b/7/4/ddd5-374c-4c47-b318-3279f91c219b" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/b/7/4/ddd5-374c-4c47-b318-3279f91c219b"/>
+      <itunes:duration>02:01:48</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/2PtZ7RCrIITO1eC1V3mZQq?si=isLFxhhoRm2-cyW-R_peyg
+
+Queens of the Stone Age - The Sky Is Fallin'
+Honeybadger - Through Hell
+Deaf Radio - Aggravation
+Psychlona - Blast Off
+Nothing - April Ha Ha
+Viagra Boys - 6 Shooter
+Shame - Snow Day
+IDLES - Reigns
+Off With Their Heads - Stay With Me
+Dead Ghosts - Swiping Hubcaps
+C.O.F.F.I.N. - Fast Love
+Mini Skirt - With Your Hands
+White Stripes - Fell In Love With A Girl
+L.A. Witch - I Wanna Lose
+Psychedelic Porn Crumpets - Pukebox
+Black Operator - Mr. Preacherman
+Night Beats - Never Look Back (feat. Robert Levon Been)
+Local H - Demon Dreams
+Jane's Addiction - Just Because
+Helmet - Biscuits for Smut 
+Red Fang - Hank is Dead
+Led Zeppelin - Since I've Been Loving You
+
+Enjoy :)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e13-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e13 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/4TVPiifLcSMkyYKgzIvXyO?si=M4fVaGf1SDGFBOTsch22bA
+
+The WRS - Magic Powder
+Thee Oh Sees - If I had My Way
+Paul McCartney - Find My Way
+Gerry & The Pacemakers - How Do You Do It
+The Make Up - They Live By Night
+The Medicine Dolls - She Tastes Like Cocaine
+Electric Six - Gay Bar
+Nova Twins - Play Fair
+Jello Biafra - Are You Drinkin' With Me Jesus
+White Dog - Black Powder
+Nighttime Boogie Assiciation - The Path We're On
+Tom Morello / Serj Tankian - Natural's Not In It (Gang of Four cover)
+Viagra Boys - Sports
+Viagra Boys - Creatures
+Less Win - The Hanging
+Vintage Crop - The North
+Viagra Boys - Ain't Nice
+Viagra Boys - In Spite Of Ourselves (John Prine cover)
+Here Lies Man - Collector of Vanities
+Max Pain and the Groovies - Obsessive Desire
+Black Sabbath - War Pigs
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 11 Jan 2021 21:04:25 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e13-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/e/8/1/cd35-e844-4769-b2f3-947f37f8c151.m4a?sig=R80Zr3JiAMLtezfgv3NX3Q"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/e/a/4/a/7681-376d-4f96-ad2d-78f188721e88" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/e/a/4/a/7681-376d-4f96-ad2d-78f188721e88"/>
+      <itunes:duration>02:05:01</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/4TVPiifLcSMkyYKgzIvXyO?si=M4fVaGf1SDGFBOTsch22bA
+
+The WRS - Magic Powder
+Thee Oh Sees - If I had My Way
+Paul McCartney - Find My Way
+Gerry & The Pacemakers - How Do You Do It
+The Make Up - They Live By Night
+The Medicine Dolls - She Tastes Like Cocaine
+Electric Six - Gay Bar
+Nova Twins - Play Fair
+Jello Biafra - Are You Drinkin' With Me Jesus
+White Dog - Black Powder
+Nighttime Boogie Assiciation - The Path We're On
+Tom Morello / Serj Tankian - Natural's Not In It (Gang of Four cover)
+Viagra Boys - Sports
+Viagra Boys - Creatures
+Less Win - The Hanging
+Vintage Crop - The North
+Viagra Boys - Ain't Nice
+Viagra Boys - In Spite Of Ourselves (John Prine cover)
+Here Lies Man - Collector of Vanities
+Max Pain and the Groovies - Obsessive Desire
+Black Sabbath - War Pigs
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-best-of-2020-s02e10-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - BEST OF 2020! - s02e10 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/4Qvid2DtnAVKbcZiBFuvMG?si=rn1q-sNiRu6E8EnZIZzUsw
+
+IDLES - A Hymn
+Ringo Deathstarr - Just like you
+Psychedelic Porn Crumpets - Tally Ho
+RHEA - Stuck In The Middle
+Strokes - Bad Decisions
+And you will know us be the trail of dead - Don't Look Down
+Frankie and the Witch Fingers - Simulator
+Mother's Cake - Love Your Smell
+Μινέρβα - Δράμα
+1000mods - So Many Days
+Psychedelic Trips to Death - Headlock
+Protomartyr - Processed by the Boys 
+Fontaines DC - A Hero's Death
+Viagra Boys - Ain't Nice 
+The Medicine Dolls - She Tastes Like Cocaine
+The Medicine Dolls - Vicious Little Sister
+SAKURAN ZENSEN - TAXIMAN
+The WRS - Spit
+Mourn - Call You Back
+Nova Twins - Taxi
+Deftones - Ohms
+The Hotrats - Milkshake
+
+Enjoy ;)]]></description>
+      <pubDate>Tue, 22 Dec 2020 09:04:36 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-best-of-2020-s02e10-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/5/3/7/4/c2a7-f4e7-453a-bb51-8e99ded59c89.m4a?sig=or0X_fzdNE3of2fydVGSAA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/a/4/e/8447-eb86-4748-8a23-54d8b4ae9675" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/a/4/e/8447-eb86-4748-8a23-54d8b4ae9675"/>
+      <itunes:duration>02:08:55</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/4Qvid2DtnAVKbcZiBFuvMG?si=rn1q-sNiRu6E8EnZIZzUsw
+
+IDLES - A Hymn
+Ringo Deathstarr - Just like you
+Psychedelic Porn Crumpets - Tally Ho
+RHEA - Stuck In The Middle
+Strokes - Bad Decisions
+And you will know us be the trail of dead - Don't Look Down
+Frankie and the Witch Fingers - Simulator
+Mother's Cake - Love Your Smell
+Μινέρβα - Δράμα
+1000mods - So Many Days
+Psychedelic Trips to Death - Headlock
+Protomartyr - Processed by the Boys 
+Fontaines DC - A Hero's Death
+Viagra Boys - Ain't Nice 
+The Medicine Dolls - She Tastes Like Cocaine
+The Medicine Dolls - Vicious Little Sister
+SAKURAN ZENSEN - TAXIMAN
+The WRS - Spit
+Mourn - Call You Back
+Nova Twins - Taxi
+Deftones - Ohms
+The Hotrats - Milkshake
+
+Enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e11-feat-playgrounded-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e11 feat. Playgrounded - @kickit.gr]]></title>
+      <description><![CDATA[Στην τελευταία και εορταστική εκπομπή του έτους, τα λέμε με τους φίλτατους Playgrounded σε μια συζήτηση εφ' όλης της ύλης.
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 28 Dec 2020 21:23:40 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e11-feat-playgrounded-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/e/d/9/4abd-4fc6-483d-9fd3-ba9fe4d556b6.m4a?sig=-XKoQbzGZhotn-Jwkxc1fw"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/1/8/6/267e-52a9-4aab-9039-cd9b3def861d" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/7/1/8/6/267e-52a9-4aab-9039-cd9b3def861d"/>
+      <itunes:duration>02:10:55</itunes:duration>
+      <itunes:summary><![CDATA[Στην τελευταία και εορταστική εκπομπή του έτους, τα λέμε με τους φίλτατους Playgrounded σε μια συζήτηση εφ' όλης της ύλης.
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -690,12 +3109,75 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Mon, 28 Dec 2020 19:34:48 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/moxiekult-vol1-wt-voxpopuli/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/f/3/3/e/f002-480d-46a6-b0d9-21700c82e023.m4a?sig=iCZtdfWc5cUVP6KGcOhj7A"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/3/3/e/f002-480d-46a6-b0d9-21700c82e023.m4a?sig=iCZtdfWc5cUVP6KGcOhj7A"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/0/a/a/ab03-41d4-476b-98a7-559b77791cbd" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/8/0/a/a/ab03-41d4-476b-98a7-559b77791cbd"/>
       <itunes:duration>01:59:50</itunes:duration>
       <itunes:summary><![CDATA[VoxPopuli on the decks of KickIt Radio. Athens Greece. Sunday 15/11/20]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e09-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e09 @kickit.gr]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/60mecSq1ODLVpkwVZD2gz7?si=GhUcXBxCR-ewhDWAbCr5eg
+
+Led Zeppelin - You Shook Me
+Tame Impala - Borderline 
+The Killers - My Own Soul's Warning
+Planet Loser - Don't Wake Me Up
+Psychedelic Porn Crumpets - Cornflake
+Max Pain And The Groovies - Street Casino
+Thee Oh Sees - If I Had My Way
+Here Lies Man - Come Inside
+The Wytches - Three Mile Ditch
+Mother's Cake - Love Your Smell
+Porridge Radio - The Last Time I Saw You
+Mannequin Pussy - Drunk II
+The Kills - I Put A Spell On You
+Babes In Toyland - We Are Family
+Puta Volcano - Primitive Data
+Nova Twins - Taxi
+Run The Jewels (feat. Royal Blood) - the ground below
+1000mods - Warped
+Bring Me The Horizon - Obey
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 14 Dec 2020 20:57:49 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e09-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/a/7/c/4/bda1-00c7-4e4d-adc5-9c22d84142a4.m4a?sig=slhGw9FU-aF5S3Wu4ihKrg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/1/6/0/e436-254b-4ab1-a950-2a579ec07f03" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/1/6/0/e436-254b-4ab1-a950-2a579ec07f03"/>
+      <itunes:duration>01:58:06</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/60mecSq1ODLVpkwVZD2gz7?si=GhUcXBxCR-ewhDWAbCr5eg
+
+Led Zeppelin - You Shook Me
+Tame Impala - Borderline 
+The Killers - My Own Soul's Warning
+Planet Loser - Don't Wake Me Up
+Psychedelic Porn Crumpets - Cornflake
+Max Pain And The Groovies - Street Casino
+Thee Oh Sees - If I Had My Way
+Here Lies Man - Come Inside
+The Wytches - Three Mile Ditch
+Mother's Cake - Love Your Smell
+Porridge Radio - The Last Time I Saw You
+Mannequin Pussy - Drunk II
+The Kills - I Put A Spell On You
+Babes In Toyland - We Are Family
+Puta Volcano - Primitive Data
+Nova Twins - Taxi
+Run The Jewels (feat. Royal Blood) - the ground below
+1000mods - Warped
+Bring Me The Horizon - Obey
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -707,12 +3189,75 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Tue, 15 Dec 2020 22:51:38 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e05/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/7/e/d/2/597f-3987-4c38-bddf-b92d0e5e88f9.m4a?sig=q-Q-vAPU1j0mqoKdq7o4xQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/7/e/d/2/597f-3987-4c38-bddf-b92d0e5e88f9.m4a?sig=q-Q-vAPU1j0mqoKdq7o4xQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/c/d/2/7667-6235-4daf-998f-8006e325a25e" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/c/d/2/7667-6235-4daf-998f-8006e325a25e"/>
       <itunes:duration>02:14:17</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e08-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e08 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/08fdchcH5gZwFcWJCkMPOc?si=ho-lk1FvTMq1VlGF5XqRiw
+
+SLIFT - It's Coming
+The Smashing Pumkins - Cyr
+Thurston Moore - Cantaloupe
+Viagra Boys - Creatures
+Maggot Heart - Roses
+Fuzz - Nothing People
+The WRS - At The Bottom Of The Sea
+Monovine - Cliche
+The Bonnie Nettles - Saristra
+Psychedelic Trips To Death - Headlock
+Παύλος Σιδηρόπουλος - Το Βιβλίο Των Ηρώων
+Pink Floyd - In The Flesh?
+Jimi Hendrix - Foxey Lady (Live In Maui)
+Billie Joe Armstrong - Gimme Some Truth
+Beach Bunny - Good Girls (Don't Get Used)
+Queens Of The Stone Age - First It Giveth
+Porridge Radio - Born Confused
+IDLES - A Hymn
+Therapy? - Nowhere
+Frankie And The Witch Fingers - Simulator
+
+Enjoy ;)]]></description>
+      <pubDate>Mon, 07 Dec 2020 21:07:51 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e08-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/e/3/7/3/2713-f812-460f-a164-5ab1316b1efa.m4a?sig=zr7edrpAf9DsouE9tmq3fg"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/8/8/e/ddea-027b-45fa-8f92-e1c3fca3bbf5" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/4/8/8/e/ddea-027b-45fa-8f92-e1c3fca3bbf5"/>
+      <itunes:duration>02:02:21</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/08fdchcH5gZwFcWJCkMPOc?si=ho-lk1FvTMq1VlGF5XqRiw
+
+SLIFT - It's Coming
+The Smashing Pumkins - Cyr
+Thurston Moore - Cantaloupe
+Viagra Boys - Creatures
+Maggot Heart - Roses
+Fuzz - Nothing People
+The WRS - At The Bottom Of The Sea
+Monovine - Cliche
+The Bonnie Nettles - Saristra
+Psychedelic Trips To Death - Headlock
+Παύλος Σιδηρόπουλος - Το Βιβλίο Των Ηρώων
+Pink Floyd - In The Flesh?
+Jimi Hendrix - Foxey Lady (Live In Maui)
+Billie Joe Armstrong - Gimme Some Truth
+Beach Bunny - Good Girls (Don't Get Used)
+Queens Of The Stone Age - First It Giveth
+Porridge Radio - Born Confused
+IDLES - A Hymn
+Therapy? - Nowhere
+Frankie And The Witch Fingers - Simulator
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -724,12 +3269,85 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Wed, 09 Dec 2020 10:22:40 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/8/7/9/e/8aa5-455f-4d68-bfc6-3d6ab6f6a09c.m4a?sig=4EAZ9Ox6OtdYeRBDP7G8_Q"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/7/9/e/8aa5-455f-4d68-bfc6-3d6ab6f6a09c.m4a?sig=4EAZ9Ox6OtdYeRBDP7G8_Q"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/2/9/0b5e-0b85-427b-a720-fa5f0404dde3" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/2/9/0b5e-0b85-427b-a720-fa5f0404dde3"/>
       <itunes:duration>02:07:41</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e07-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e07 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: 
+https://open.spotify.com/playlist/1Fjhuxd6p4UhMzxC5tEPsu?si=pJWQKOTnRfOiA-hQ8NYqJA
+
+Manic Street Preachers - Motown Junk
+Pixies - Here Comes Your Man
+Planet Loser - Hold My Breath
+Fleet Foxes - Can I Believe You
+The Raveonettes - SNOWSTORM
+The Cribs - Never Thought I'd Feel Again
+Liam Gallagher - All You're Dreaming Of 
+Phoebe Bridgers - Kyoto
+Throwing Muses - Bo Diddley Bridge
+David Nance - My Love, The Dark and I
+Five Horse Johnson - ... Of Ditch Diggers and Drowing Men
+DIRK. - Hit
+Little Barrie - Rest In Blue
+Black Rebel Motorcycle Club - As Sure As The Sun
+Clutch - Fortunate Son
+The WRS - Spit
+Milk For The Angry - Skin & Bones
+The Medicine Dolls - Vicious Little Sister
+TV Freaks - Capital Eye
+King Gizzard & The Lizard Wizard - Automation
+Greta Van Fleet - My Way, Soon
+Led Zeppelin - The Rover
+Mother's Cake - Crystals In The Sky
+Frank Zappa - Anyway The Wind Blows
+
+Enjoy!]]></description>
+      <pubDate>Mon, 30 Nov 2020 20:38:58 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e07-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/5/a/8/dc70-0720-49b1-aa07-107e436c4143.m4a?sig=_X9WuSl-yPnU7LElpDrUtA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/9/2/2/2b6f-b7fe-4e0c-9e7e-e8e7177822d2" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/9/2/2/2b6f-b7fe-4e0c-9e7e-e8e7177822d2"/>
+      <itunes:duration>02:03:16</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: 
+https://open.spotify.com/playlist/1Fjhuxd6p4UhMzxC5tEPsu?si=pJWQKOTnRfOiA-hQ8NYqJA
+
+Manic Street Preachers - Motown Junk
+Pixies - Here Comes Your Man
+Planet Loser - Hold My Breath
+Fleet Foxes - Can I Believe You
+The Raveonettes - SNOWSTORM
+The Cribs - Never Thought I'd Feel Again
+Liam Gallagher - All You're Dreaming Of 
+Phoebe Bridgers - Kyoto
+Throwing Muses - Bo Diddley Bridge
+David Nance - My Love, The Dark and I
+Five Horse Johnson - ... Of Ditch Diggers and Drowing Men
+DIRK. - Hit
+Little Barrie - Rest In Blue
+Black Rebel Motorcycle Club - As Sure As The Sun
+Clutch - Fortunate Son
+The WRS - Spit
+Milk For The Angry - Skin & Bones
+The Medicine Dolls - Vicious Little Sister
+TV Freaks - Capital Eye
+King Gizzard & The Lizard Wizard - Automation
+Greta Van Fleet - My Way, Soon
+Led Zeppelin - The Rover
+Mother's Cake - Crystals In The Sky
+Frank Zappa - Anyway The Wind Blows
+
+Enjoy!]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -741,7 +3359,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Wed, 02 Dec 2020 19:32:24 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/d/f/5/c/0d03-e95f-4006-a47a-21b8815baa31.m4a?sig=uo_nUd_zoMgTL8VRZWOc9g"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/f/5/c/0d03-e95f-4006-a47a-21b8815baa31.m4a?sig=uo_nUd_zoMgTL8VRZWOc9g"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/2/1/8/c2f2-386a-431f-9415-f7701e378614" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/0/2/1/8/c2f2-386a-431f-9415-f7701e378614"/>
@@ -758,7 +3376,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Sat, 28 Nov 2020 20:38:11 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e06/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/d/0/5/2/27c2-8d77-4f65-996f-29f0c45fd60a.m4a?sig=rAG54RXUj6ZQlVr4yHFLvQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/d/0/5/2/27c2-8d77-4f65-996f-29f0c45fd60a.m4a?sig=rAG54RXUj6ZQlVr4yHFLvQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/0/e/e/c87a-30c3-4c02-ac67-e2f3995ca26b" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/9/0/e/e/c87a-30c3-4c02-ac67-e2f3995ca26b"/>
@@ -775,7 +3393,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Sat, 28 Nov 2020 20:31:54 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e05/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/6/7/1/3/804b-f6f5-4cfd-991a-3c527294795a.m4a?sig=gRLwnHjxgvKaH10CBHwUww"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/6/7/1/3/804b-f6f5-4cfd-991a-3c527294795a.m4a?sig=gRLwnHjxgvKaH10CBHwUww"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/d/e/f/6b67-ff87-4a90-9329-243a4b6038be" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/1/d/e/f/6b67-ff87-4a90-9329-243a4b6038be"/>
@@ -792,7 +3410,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Sat, 28 Nov 2020 20:20:29 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e04/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/f/1/7/6/49d9-791b-41bf-88af-2fc5a958a9c9.m4a?sig=zJBdpq8PZ73j9kHCCwz1_g"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/f/1/7/6/49d9-791b-41bf-88af-2fc5a958a9c9.m4a?sig=zJBdpq8PZ73j9kHCCwz1_g"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/4/1/0/6af2-27b3-4439-8fef-9c45065c81d5" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/b/4/1/0/6af2-27b3-4439-8fef-9c45065c81d5"/>
@@ -809,7 +3427,7 @@ We choose the fruits, enjoy your juice!]]></itunes:summary>
       <pubDate>Sat, 28 Nov 2020 19:28:48 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e03/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/3/8/8/d/66b0-43d2-4550-a3c1-a71fe01fcf7b.m4a?sig=xhEdqEW27niiUnFtAVwYzA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/8/8/d/66b0-43d2-4550-a3c1-a71fe01fcf7b.m4a?sig=xhEdqEW27niiUnFtAVwYzA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/7/1/33e8-d5f9-48a7-a5cc-2c789c46840f" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/e/7/1/33e8-d5f9-48a7-a5cc-2c789c46840f"/>
@@ -827,7 +3445,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></descript
       <pubDate>Sat, 28 Nov 2020 18:33:43 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/7/f/8/d/7ec2-42ca-4e34-a798-68889e93d543.m4a?sig=4cIM5gDn7Hd_SYJslIuwcg"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/7/f/8/d/7ec2-42ca-4e34-a798-68889e93d543.m4a?sig=4cIM5gDn7Hd_SYJslIuwcg"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/9/5/3b72-c0fe-47f9-a10f-c68ffb10381a" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/9/9/5/3b72-c0fe-47f9-a10f-c68ffb10381a"/>
@@ -839,18 +3457,290 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:s
     </item>
     
     <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e06-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e06 @kickit.gr]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/7nOM5Pbq21WJEA6OYGe41J?si=ORaO32sDSWG6luvJjv-ZIw
+
+All Them Witches - Saturnine & Iron Jaw
+Motorpsycho - The Same Old Rock
+Here Lies Man - I Told You
+King Buffalo - Echo of a Waning Star
+Instant Boner - Big Bang
+The Comet is Coming - Summon the Fire
+Cosmonauts - Flesh and Bones
+Shame - Alphabet
+The Psychedelic Furs - You'll Be Mine
+Radiohead - Lotus Flower
+Division of Laura Lee - Hollow Pricks
+Refused - Malfire
+Psychedelic Porn Crumpets - Mundungus
+The Network - Ivankkka Is A Nazi
+The Distillers - Gypsy Rose Lee
+Bad Cop, Bad Cop - Take My Call
+NOFX - Thatcher Fucked The Kids
+TOOL - Sober
+Puscifer - Momma Sed
+Monovine - Why Don't You Shoot Me in the Head
+Nerrves - Promenade
+Beatles - Helter Skelter
+
+enjoy ;)]]></description>
+      <pubDate>Tue, 24 Nov 2020 19:09:24 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e06-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/b/b/3/d/8001-91a4-421d-bd21-509d1705d58a.m4a?sig=VPq6-SQsS9iDQkOzxWdmYQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/1/a/f/1595-600a-4378-9840-c30ec05c342d" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/2/1/a/f/1595-600a-4378-9840-c30ec05c342d"/>
+      <itunes:duration>02:01:50</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/7nOM5Pbq21WJEA6OYGe41J?si=ORaO32sDSWG6luvJjv-ZIw
+
+All Them Witches - Saturnine & Iron Jaw
+Motorpsycho - The Same Old Rock
+Here Lies Man - I Told You
+King Buffalo - Echo of a Waning Star
+Instant Boner - Big Bang
+The Comet is Coming - Summon the Fire
+Cosmonauts - Flesh and Bones
+Shame - Alphabet
+The Psychedelic Furs - You'll Be Mine
+Radiohead - Lotus Flower
+Division of Laura Lee - Hollow Pricks
+Refused - Malfire
+Psychedelic Porn Crumpets - Mundungus
+The Network - Ivankkka Is A Nazi
+The Distillers - Gypsy Rose Lee
+Bad Cop, Bad Cop - Take My Call
+NOFX - Thatcher Fucked The Kids
+TOOL - Sober
+Puscifer - Momma Sed
+Monovine - Why Don't You Shoot Me in the Head
+Nerrves - Promenade
+Beatles - Helter Skelter
+
+enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
       <guid isPermaLink="false">kickitathens_whiskey-bar-s02-e02</guid>
       <title><![CDATA[Whiskey bar - S02 E02]]></title>
       <description><![CDATA[None]]></description>
       <pubDate>Wed, 25 Nov 2020 13:30:03 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02-e02/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/9/4/7/a/bb33-7204-4464-9002-1d7c8b55e99e.m4a?sig=ICD3gh9snytTpmNpK_SILw"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/9/4/7/a/bb33-7204-4464-9002-1d7c8b55e99e.m4a?sig=ICD3gh9snytTpmNpK_SILw"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/0/3/0/58d0-adde-4b4e-8d02-fd8b0df986a8" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/d/0/3/0/58d0-adde-4b4e-8d02-fd8b0df986a8"/>
       <itunes:duration>02:10:23</itunes:duration>
       <itunes:summary><![CDATA[None]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e05-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e05 @kickit.gr]]></title>
+      <description><![CDATA[Playlist:
+https://open.spotify.com/playlist/4mGPRWS1yzGmmzH56krNDq?si=NVAE6Y61RdulcACSPAOeiw
+
+A Perfect Circle - Imagine
+The Offspring - Christmas (Baby Please Come Home)
+Μινέρβα - Με Νεύρα
+L.A. WITCH - I Wanna Lose
+The Strokes - Bad Decisions
+NOFX - The Separation of Church and Skate
+Witchrider - Shadows
+Clutch - Passive Retraints
+1000mods - Blister
+Fu Manchu - Godzilla
+Nirvana - Serve the Servants
+Foo Fighters - Shame Shame
+L7 - Pretend We're Dead
+The Clash - Safe European Home
+The Medicine Dolls - She Tastes Like Cocaine
+Refused - Born On The Outs
+Zack De La Rocha - We Want It All
+Bring Me The Horizon - Obey
+Architects - Animals 
+Johnny Boy - You Are The Generation That Bought More Shoes and You Get What You Deserve
+Anti-Flag - A Dying Plea
+Rage Against The Machine - Testify
+
+enjoy ;)]]></description>
+      <pubDate>Mon, 16 Nov 2020 21:23:53 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e05-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/2/9/3/b/9ed5-b463-482e-9d22-f3ad6e1b56a1.m4a?sig=y6ESV3S_35osfaff5zW-dQ"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/f/f/8/118d-29f9-4cd9-bf98-64fbdc63400a" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/f/f/f/8/118d-29f9-4cd9-bf98-64fbdc63400a"/>
+      <itunes:duration>02:08:53</itunes:duration>
+      <itunes:summary><![CDATA[Playlist:
+https://open.spotify.com/playlist/4mGPRWS1yzGmmzH56krNDq?si=NVAE6Y61RdulcACSPAOeiw
+
+A Perfect Circle - Imagine
+The Offspring - Christmas (Baby Please Come Home)
+Μινέρβα - Με Νεύρα
+L.A. WITCH - I Wanna Lose
+The Strokes - Bad Decisions
+NOFX - The Separation of Church and Skate
+Witchrider - Shadows
+Clutch - Passive Retraints
+1000mods - Blister
+Fu Manchu - Godzilla
+Nirvana - Serve the Servants
+Foo Fighters - Shame Shame
+L7 - Pretend We're Dead
+The Clash - Safe European Home
+The Medicine Dolls - She Tastes Like Cocaine
+Refused - Born On The Outs
+Zack De La Rocha - We Want It All
+Bring Me The Horizon - Obey
+Architects - Animals 
+Johnny Boy - You Are The Generation That Bought More Shoes and You Get What You Deserve
+Anti-Flag - A Dying Plea
+Rage Against The Machine - Testify
+
+enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e04-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e04 @kickit.gr]]></title>
+      <description><![CDATA[Playlist: https://open.spotify.com/playlist/6a7lCPri0yzwBsWcMUizqk?si=AJclqi1EQYihOUADxRhD1A
+
+Afformance - Hedgedog
+Lethe - Gamma
+Puscifer - Apocalyptical
+Hey Colossus - The Mirror (with Mark Lanegan)
+Witchrider - The weatherman
+Gone is Gone - Breaks
+Prophets of Rage - Unfuck the World
+All Them Witches - The Children of Coyote Man
+Gorillaz - Valley of the Pagans
+Khruangbin - Summer Madness
+Planet Loser - Around the Clouds
+Mourn - Call You Back
+Yeah Yeah Yeahs - Sacrilege
+Earthless - Never Say Die
+Uncle Acid & The Deadbeats - Pusher Man
+Weed - Slowin' Down
+The Heavy Eyes - Bright Light
+Iggy Pop - Louie Louie
+The Hawkins - Hilow
+SAKURAN ZENSEN - London Boots
+System Of a Down - Protect The Land
+
+enjoy ;)]]></description>
+      <pubDate>Tue, 10 Nov 2020 07:51:55 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e04-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/8/b/2/5/d8b4-8ea5-461d-84de-32031a4f905e.m4a?sig=-rG-5_r3qyNR1ANefHSboA"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/4/a/8/1b28-5e87-4c8c-9e24-f3de6f1370b2" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/a/4/a/8/1b28-5e87-4c8c-9e24-f3de6f1370b2"/>
+      <itunes:duration>02:01:15</itunes:duration>
+      <itunes:summary><![CDATA[Playlist: https://open.spotify.com/playlist/6a7lCPri0yzwBsWcMUizqk?si=AJclqi1EQYihOUADxRhD1A
+
+Afformance - Hedgedog
+Lethe - Gamma
+Puscifer - Apocalyptical
+Hey Colossus - The Mirror (with Mark Lanegan)
+Witchrider - The weatherman
+Gone is Gone - Breaks
+Prophets of Rage - Unfuck the World
+All Them Witches - The Children of Coyote Man
+Gorillaz - Valley of the Pagans
+Khruangbin - Summer Madness
+Planet Loser - Around the Clouds
+Mourn - Call You Back
+Yeah Yeah Yeahs - Sacrilege
+Earthless - Never Say Die
+Uncle Acid & The Deadbeats - Pusher Man
+Weed - Slowin' Down
+The Heavy Eyes - Bright Light
+Iggy Pop - Louie Louie
+The Hawkins - Hilow
+SAKURAN ZENSEN - London Boots
+System Of a Down - Protect The Land
+
+enjoy ;)]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">panospet_related-radio-show-s02e03-kickitgr</guid>
+      <title><![CDATA[Related, Radio Show - s02e03 @kickit.gr]]></title>
+      <description><![CDATA[Related, Radio Show: s02e03
+
+Playlist: https://open.spotify.com/playlist/6LK9gNe1LA4DQPoVQvWwxv?si=dKGt-E8ZQfWmd1M7JwBJuA
+
+The Propellerheads - History repeating
+Joey Ramone - What a wonderful world
+Rage Against The Machine - War within a breath
+Sonic Youth - Youth against fascism
+Fontaines D.C. - A hero's death
+Crack Cloud - Ouster Stew
+Puscifer - The underwhelming 
+John Frusciante - Brand E
+Strawberry Pills - Enter the void
+Tom Morello - Voodoo child 
+RHEA - Stuck in the middle 
+Daily Thompson - Sad Frank 
+All Them Witches - When god comes back
+Clutch - Gravel road 
+Huanastone - Bad Blood
+Truckfighters - Mind control
+The Cramps - I was a teenage werewolf
+The Last Drive - Gone gone gone
+Black Foxxes - Jungle skies 
+Bruce Springsteen - Letter to you 
+Frank Zappa - Crew slut
+
+Enjoy ;)]]></description>
+      <pubDate>Thu, 05 Nov 2020 10:08:03 +0000</pubDate>
+      <dc:creator>panospet</dc:creator>
+      <link>https://www.mixcloud.com/panospet/related-radio-show-s02e03-kickitgr/</link>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/3/b/a/1/6286-a212-4ea7-8973-0123dc5cbe5d.m4a?sig=8r8UDHBd04b7F-F8qAmp5w"/>
+      <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/1/6/510a-0c4d-47cc-9db6-30757cf31564" medium="image"/>
+      <itunes:author>panospet</itunes:author>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/3/a/1/6/510a-0c4d-47cc-9db6-30757cf31564"/>
+      <itunes:duration>02:06:53</itunes:duration>
+      <itunes:summary><![CDATA[Related, Radio Show: s02e03
+
+Playlist: https://open.spotify.com/playlist/6LK9gNe1LA4DQPoVQvWwxv?si=dKGt-E8ZQfWmd1M7JwBJuA
+
+The Propellerheads - History repeating
+Joey Ramone - What a wonderful world
+Rage Against The Machine - War within a breath
+Sonic Youth - Youth against fascism
+Fontaines D.C. - A hero's death
+Crack Cloud - Ouster Stew
+Puscifer - The underwhelming 
+John Frusciante - Brand E
+Strawberry Pills - Enter the void
+Tom Morello - Voodoo child 
+RHEA - Stuck in the middle 
+Daily Thompson - Sad Frank 
+All Them Witches - When god comes back
+Clutch - Gravel road 
+Huanastone - Bad Blood
+Truckfighters - Mind control
+The Cramps - I was a teenage werewolf
+The Last Drive - Gone gone gone
+Black Foxxes - Jungle skies 
+Bruce Springsteen - Letter to you 
+Frank Zappa - Crew slut
+
+Enjoy ;)]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -862,7 +3752,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></itunes:s
       <pubDate>Tue, 03 Nov 2020 20:40:21 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/whiskey-bar-s02e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/e/d/d/c/137f-ff9e-4f4a-aad1-b3c1b287ae03.m4a?sig=foctQLwcLDw4R6hRGmpHbQ"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/e/d/d/c/137f-ff9e-4f4a-aad1-b3c1b287ae03.m4a?sig=foctQLwcLDw4R6hRGmpHbQ"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/4/c/a/4d02-5cf7-4582-abd0-b18946b5c291" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/5/4/c/a/4d02-5cf7-4582-abd0-b18946b5c291"/>
@@ -880,7 +3770,7 @@ Black Tunes, classic & fresh urban music, from Athens to the world.]]></descript
       <pubDate>Sun, 18 Oct 2020 11:17:46 +0000</pubDate>
       <dc:creator>KickIt Radio</dc:creator>
       <link>https://www.mixcloud.com/kickitathens/back2black-s02e01/</link>
-      <enclosure type="audio/mpeg" url="https://stream14.mixcloud.com/secure/c/m4a/64/1/4/e/b/2845-22ab-4270-9d56-914956ac77f7.m4a?sig=06cNTAe5hBJ56OMb8uPerA"/>
+      <enclosure type="audio/mpeg" url="https://stream1.mixcloud.com/secure/c/m4a/64/1/4/e/b/2845-22ab-4270-9d56-914956ac77f7.m4a?sig=06cNTAe5hBJ56OMb8uPerA"/>
       <media:content url="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/6/e/7/70b9-306f-4d1f-bcee-9c693c7c44ae" medium="image"/>
       <itunes:author>KickIt Radio</itunes:author>
       <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/c/6/e/7/70b9-306f-4d1f-bcee-9c693c7c44ae"/>
