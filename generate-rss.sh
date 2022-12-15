@@ -17,7 +17,7 @@ done
 mkdir -vp docs
 
 # Fetch mixcloud data
-youtube-dl --geo-bypass -f http https://www.mixcloud.com/${USER}/ -J --skip-download | jq '.entries[].duration |= strftime("%H:%M:%S")' | jq '.entries[].timestamp |= strftime("%a, %d %b %Y %H:%M:%S +0000")'  > ${MIXCLOUD_JSON_DATA}
+youtube-dl --geo-bypass -f http https://www.mixcloud.com/${USER}/stream -J --skip-download | jq '.entries[].duration |= strftime("%H:%M:%S")' | jq '.entries[].timestamp |= strftime("%a, %d %b %Y %H:%M:%S +0000")'  > ${MIXCLOUD_JSON_DATA}
 
 # GENERATE RSS
 jinja render -d "${MIXCLOUD_JSON_DATA}" -t ./template.rss -lb -tb --extra-var last_build="$(date -R)" > ${NEW_RSS}
